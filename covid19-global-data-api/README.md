@@ -6,6 +6,8 @@ This sample project is based on [VulcanSQL](https://github.com/Canner/vulcan-sql
 
 In this project, we expose some apis based on COVID 19 Global Data downloaded from [WHO Coronavirus (COVID-19) Dashboard](https://covid19.who.int/data), and `WHO-COVID-19-global-data.csv` is the downloaded file.
 
+You can see the [API documentation launched on fly.io](https://covid19-global-data-api.fly.dev/doc)
+
 ## Setup
 
 - [Install VulcanSQL from NPM](https://vulcansql.com/docs/get-started/installation#install-from-npm)
