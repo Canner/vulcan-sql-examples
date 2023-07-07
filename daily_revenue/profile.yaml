@@ -1,0 +1,14 @@
+- name: bq # profile name
+  type: bq
+  connection:
+    location: ASIA-EAST1
+    keyFilename: 'your-gcp-credential.json'
+  allow: '*'
+  cache:
+    bucketName: 'vulcan-ci'
+- name: duck 
+  type: duckdb
+  connection:
+    log-queries: false
+    log-parameters: false
+  allow: '*'
