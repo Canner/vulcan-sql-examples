@@ -8,7 +8,7 @@ import plotly.express as px
 
 st.set_page_config(page_title='COVID-19 Data Visualizations', layout='wide')
 
-API_URL = 'http://localhost:3000/api'
+API_URL = st.secrets["API_URL"] or 'http://localhost:3000/api'
 
 st.title('COVID-19 Data Visualizations')
 st.markdown('The API service is delivered using [VulcanSQL](https://vulcansql.com/).')
