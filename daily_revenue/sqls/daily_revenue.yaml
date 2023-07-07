@@ -1,0 +1,18 @@
+urlPath: /daily_revenue
+request:
+  - fieldName: startdate
+    fieldIn: query
+    description: limit of query
+  - fieldName: enddate
+    fieldIn: query
+    description: limit of query
+cache:
+  - cacheTableName: daily_revenue
+    # daily revenue for the last 3 years
+    sql: "select sum(totalprice), orderdate from cannerflow-286003.tpch_sf1.orders where orderdate >= '1996-01-01' group by orderdate "
+    profile: bq
+    refreshTime:
+        every: "10d"
+    indexes:
+      'idx_orderdate': 'orderdate'
+profile: bq

@@ -1,0 +1,12 @@
+{
+  "name": "daily_revenue_vulcan",
+  "dependencies": {
+    "@vulcan-sql/core": "0.5.3",
+    "@vulcan-sql/extension-driver-bq": "^0.5.3",
+    "@vulcan-sql/extension-driver-duckdb": "0.5.3",
+    "@vulcan-sql/serve": "0.5.3"
+  },
+  "devDependencies": {
+    "@vulcan-sql/build": "0.5.3"
+  }
+}
