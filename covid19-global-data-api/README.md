@@ -8,7 +8,7 @@ In this project, we expose some apis based on COVID 19 Global Data downloaded fr
 
 ## DEMO
 
-- [API documentation launched on fly.io](https://covid19-global-data-api.fly.dev/doc)
+- [COVID 19 Global Data APIs and Documentation](https://covid19-global-data-api.fly.dev/doc)
 - [Data Dashboard](https://covid19-dashboard.fly.dev/)
 
 ## Setup
