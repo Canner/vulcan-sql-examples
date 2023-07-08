@@ -6,13 +6,35 @@ This sample project is based on [VulcanSQL](https://github.com/Canner/vulcan-sql
 
 In this project, we expose some apis based on COVID 19 Global Data downloaded from [WHO Coronavirus (COVID-19) Dashboard](https://covid19.who.int/data), and `WHO-COVID-19-global-data.csv` is the downloaded file.
 
-You can see the [API documentation launched on fly.io](https://covid19-global-data-api.fly.dev/doc)
+## DEMO
+
+- [API documentation launched on fly.io](https://covid19-global-data-api.fly.dev/doc)
+- [Data Dashboard](https://covid19-dashboard.fly.dev/)
 
 ## Setup
+
+### Development
 
 - [Install VulcanSQL from NPM](https://vulcansql.com/docs/get-started/installation#install-from-npm)
 - `npm install` in the root of project directory
 - `vulcan start --watch` and `vulcan catalog` in two seperate shell windows, and you can now access API documentation at `http://localhost:3000/docs` and catalog at `http://localhost:4000`
+
+### Deployment
+
+**There are a lot of deployment options as of now, we provide [Fly.io](https://fly.io/) as an example since we can deploy the project for [free](https://fly.io/docs/about/pricing/), we can easily prevent apps from hibernation and it's simple to use!**
+
+- COVID-19 global data APIs(VulcanSQL):
+    - install [fly.io](https://fly.io/docs/hands-on/install-flyctl/)
+    - `fly auth login`
+    - `vulcan package --output docker`
+    - `cd dist`(We provide it for demonstration purpose, and you can ignore it in `.gitignore` if you want)
+        - notice that you need to copy `profiles.yaml` and other necessary files manually if you do it yourself.
+            - You can check `Dockerfile` for further details
+    - `fly launch`
+        - Please take a look at `fly.toml`, which is a configuration file from Fly.io. It will be auto-generated if you run `fly launch`. We provide it here for your reference.
+    - `fly deploy`
+- COVID-19 data dashboard(Streamlit):
+    - please check [here](visualizations/streamlit/README.md#Deployment)
 
 ## APIs introduction
 
