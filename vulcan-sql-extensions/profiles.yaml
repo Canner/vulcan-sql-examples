@@ -1,0 +1,7 @@
+- name: duckdb
+  type: duckdb
+  allow: '*'
+  connection:
+    persistent-path: ./data/demo.db
+    log-queries: true
+    log-parameters: true

@@ -1,0 +1,10 @@
+urlPath: /example/customer
+profiles:
+  - demo
+request:
+  - fieldName: name
+    fieldIn: query
+sample:
+  profile: demo
+  parameters:
+    name: "Liuka"

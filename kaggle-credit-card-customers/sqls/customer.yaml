@@ -1,0 +1,6 @@
+urlPath: /customer
+profiles:
+  - demo
+request:
+  - fieldName: name
+    fieldIn: query

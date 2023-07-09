@@ -1,0 +1,16 @@
+{
+  "name": "vulcan-demo-extensions",
+  "dependencies": {
+    "@vulcan-sql-demo/mask-tag": "file:extensions/tag-runner-and-builder/dist",
+    "@vulcan-sql-demo/mask-tag-2": "file:extensions/functional-tag/dist",
+    "@vulcan-sql-demo/mock-template-provider": "file:extensions/template-provider/dist",
+    "@vulcan-sql-demo/prefix-filter": "file:extensions/filter-runner-and-builder/dist",
+    "@vulcan-sql-demo/prefix-filter-2": "file:extensions/functional-filter/dist",
+    "@vulcan-sql/core": "0.2.1",
+    "@vulcan-sql/extension-driver-duckdb": "0.2.1",
+    "@vulcan-sql/serve": "0.2.1"
+  },
+  "devDependencies": {
+    "@vulcan-sql/build": "0.2.1"
+  }
+}

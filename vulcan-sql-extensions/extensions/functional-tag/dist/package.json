@@ -1,0 +1,11 @@
+{
+  "name": "@vulcan-sql-demo/mask-tag-2",
+  "scripts": {
+    "build": "rm -rf dist && tsc && cp package.json ./dist"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "*",
+    "typescript": "^4.8.4"
+  }
+}
