@@ -1,0 +1,1 @@
+select {{ '123' | prefix2(pre='hello') }} as s;

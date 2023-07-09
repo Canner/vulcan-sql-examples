@@ -1,0 +1,1 @@
+select {% mask2 len=3, padding=5 %} id {% endmask2 %} as id, email from customers limit 10;

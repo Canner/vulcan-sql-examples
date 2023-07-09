@@ -1,0 +1,38 @@
+name: "vulcan-demo-extensions"
+description: A starter Vulcan project
+version: 0.2.0
+template:
+  # To test mock template provider, change this value to "mock"
+  provider: LocalFile
+  folderPath: sqls
+  codeLoader: InMemory
+artifact:
+  provider: LocalFile
+  serializer: JSON
+  filePath: result.json
+schema-parser:
+  reader: LocalFile
+  folderPath: sqls
+document-generator:
+  specs:
+    - oas3
+types:
+  - RESTFUL
+auth:
+  enabled: false
+enforce-https:
+  enabled: false
+response-format:
+  enabled: true
+  options:
+    default: json
+    formats:
+      - json
+      - csv
+extensions:
+  duckdb: "@vulcan-sql/extension-driver-duckdb"
+  maskTag: "@vulcan-sql-demo/mask-tag"
+  maskTag2: "@vulcan-sql-demo/mask-tag-2"
+  prefixFilter: "@vulcan-sql-demo/prefix-filter"
+  prefixFilter2: "@vulcan-sql-demo/prefix-filter-2"
+  mockTemplate: "@vulcan-sql-demo/mock-template-provider"

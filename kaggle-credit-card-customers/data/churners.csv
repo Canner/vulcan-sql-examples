@@ -1,0 +1,1001 @@
+id,age,gender,education_level,marital_status,income_category,card_category,months_on_book,total_relationship_count,months_inactive_12_mon,contacts_count_12_mon,credit_limit,attrited
+768805383,45,M,High School,Married,$60K - $80K,Blue,39,5,1,3,12691.0,false
+818770008,49,F,Graduate,Single,Less than $40K,Blue,44,6,1,2,8256.0,false
+713982108,51,M,Graduate,Married,$80K - $120K,Blue,36,4,1,0,3418.0,false
+769911858,40,F,High School,Unknown,Less than $40K,Blue,34,3,4,1,3313.0,false
+709106358,40,M,Uneducated,Married,$60K - $80K,Blue,21,5,1,0,4716.0,false
+713061558,44,M,Graduate,Married,$40K - $60K,Blue,36,3,1,2,4010.0,false
+810347208,51,M,Unknown,Married,$120K +,Gold,46,6,1,3,34516.0,false
+818906208,32,M,High School,Unknown,$60K - $80K,Silver,27,2,2,2,29081.0,false
+710930508,37,M,Uneducated,Single,$60K - $80K,Blue,36,5,2,0,22352.0,false
+719661558,48,M,Graduate,Single,$80K - $120K,Blue,36,6,3,3,11656.0,false
+708790833,42,M,Uneducated,Unknown,$120K +,Blue,31,5,3,2,6748.0,false
+710821833,65,M,Unknown,Married,$40K - $60K,Blue,54,6,2,3,9095.0,false
+710599683,56,M,College,Single,$80K - $120K,Blue,36,3,6,0,11751.0,false
+816082233,35,M,Graduate,Unknown,$60K - $80K,Blue,30,5,1,3,8547.0,false
+712396908,57,F,Graduate,Married,Less than $40K,Blue,48,5,2,2,2436.0,false
+714885258,44,M,Unknown,Unknown,$80K - $120K,Blue,37,5,1,2,4234.0,false
+709967358,48,M,Post-Graduate,Single,$80K - $120K,Blue,36,6,2,3,30367.0,false
+753327333,41,M,Unknown,Married,$80K - $120K,Blue,34,4,4,1,13535.0,false
+806160108,61,M,High School,Married,$40K - $60K,Blue,56,2,2,3,3193.0,false
+709327383,45,F,Graduate,Married,Unknown,Blue,37,6,1,2,14470.0,false
+806165208,47,M,Doctorate,Divorced,$60K - $80K,Blue,42,5,2,0,20979.0,false
+708508758,62,F,Graduate,Married,Less than $40K,Blue,49,2,3,3,1438.3,true
+784725333,41,M,High School,Married,$40K - $60K,Blue,33,4,2,1,4470.0,false
+811604133,47,F,Unknown,Single,Less than $40K,Blue,36,3,3,2,2492.0,false
+789124683,54,M,Unknown,Married,$80K - $120K,Blue,42,4,2,3,12217.0,false
+771071958,41,F,Graduate,Single,Less than $40K,Blue,28,6,1,2,7768.0,false
+720466383,59,M,High School,Unknown,$40K - $60K,Blue,46,4,1,2,14784.0,false
+804424383,63,M,Unknown,Married,$60K - $80K,Blue,56,3,3,2,10215.0,false
+718813833,44,F,Uneducated,Single,Unknown,Blue,34,5,2,2,10100.0,false
+806624208,47,M,High School,Married,$40K - $60K,Blue,42,6,0,0,4785.0,false
+778348233,53,M,Unknown,Married,$80K - $120K,Blue,33,3,2,3,2753.0,false
+712991808,53,M,Uneducated,Married,$60K - $80K,Blue,48,2,5,1,2451.0,false
+709029408,41,M,Graduate,Married,$60K - $80K,Blue,36,4,1,2,8923.0,false
+788658483,53,F,College,Married,Less than $40K,Blue,38,5,2,3,2650.0,false
+787937058,58,M,Graduate,Married,$80K - $120K,Blue,49,6,2,2,12555.0,false
+715318008,55,F,College,Single,Less than $40K,Blue,36,4,2,1,3520.0,false
+713962233,55,F,Graduate,Married,Less than $40K,Blue,36,6,2,3,3035.0,false
+785432733,42,F,High School,Married,Less than $40K,Gold,36,2,3,3,15433.0,false
+715190283,57,F,Graduate,Unknown,$40K - $60K,Blue,49,3,3,2,3672.0,false
+708300483,66,F,Doctorate,Married,Unknown,Blue,56,5,4,3,7882.0,true
+827111283,45,M,Graduate,Single,$80K - $120K,Blue,41,2,2,2,32426.0,false
+758551608,51,M,Unknown,Married,$40K - $60K,Blue,44,4,1,0,6205.0,false
+773146383,50,F,College,Single,$40K - $60K,Silver,43,3,2,3,17304.0,false
+778493808,49,M,High School,Married,$60K - $80K,Blue,37,5,2,1,3906.0,false
+720572508,38,F,Graduate,Single,Unknown,Blue,28,2,3,3,9830.0,false
+712661433,49,M,Uneducated,Single,$80K - $120K,Blue,30,3,2,3,34516.0,false
+789172683,56,M,Doctorate,Married,$60K - $80K,Blue,45,6,2,0,2283.0,false
+738406533,59,M,Doctorate,Married,$40K - $60K,Blue,52,3,2,2,2548.0,false
+799723908,46,M,High School,Married,$80K - $120K,Blue,40,4,3,3,19458.0,false
+771490833,52,M,College,Single,$80K - $120K,Blue,40,5,1,1,4745.0,false
+720756708,52,F,Unknown,Married,Less than $40K,Blue,41,6,3,2,2622.0,false
+779471883,54,F,Graduate,Married,Less than $40K,Blue,40,2,3,1,1438.3,true
+711525033,66,F,High School,Married,Less than $40K,Blue,54,3,4,2,3171.0,false
+712813458,49,M,Unknown,Married,$120K +,Blue,36,4,2,0,19763.0,false
+714374133,56,M,Graduate,Married,$120K +,Blue,36,1,3,3,15769.0,true
+717891558,49,F,Graduate,Unknown,Less than $40K,Blue,36,6,4,2,3298.0,false
+716632758,49,F,Graduate,Single,Less than $40K,Blue,36,2,2,0,2802.0,false
+768563658,56,M,Uneducated,Married,$40K - $60K,Blue,50,4,2,3,4458.0,false
+711427458,44,F,Graduate,Married,Unknown,Blue,35,4,1,2,6273.0,false
+714091983,42,M,High School,Single,$60K - $80K,Blue,34,4,4,3,3336.0,false
+787584108,55,M,Unknown,Married,$80K - $120K,Blue,47,4,2,3,3436.0,false
+712030833,48,M,Graduate,Married,$60K - $80K,Silver,35,2,4,4,34516.0,true
+711481533,39,M,High School,Divorced,$60K - $80K,Blue,33,5,3,3,5926.0,false
+710082708,44,M,Post-Graduate,Single,$120K +,Blue,32,2,4,2,23957.0,false
+708155733,53,M,High School,Single,$120K +,Blue,44,4,2,2,14734.0,false
+788979258,51,M,Uneducated,Single,$80K - $120K,Silver,38,4,1,4,34516.0,false
+807986133,57,M,College,Married,$60K - $80K,Blue,52,5,3,3,6584.0,false
+788730933,44,F,Uneducated,Single,Less than $40K,Blue,20,6,3,3,2084.0,false
+711314058,49,M,Graduate,Married,$60K - $80K,Blue,32,2,2,2,1687.0,false
+717975333,50,M,Doctorate,Married,$80K - $120K,Blue,38,6,2,2,25300.0,false
+715971108,51,M,Graduate,Single,$120K +,Blue,42,3,2,3,34516.0,false
+720096558,55,F,Graduate,Married,Less than $40K,Blue,42,5,3,3,2216.0,false
+719580033,54,M,Graduate,Unknown,$60K - $80K,Blue,43,4,2,3,2910.0,false
+820582308,42,M,Uneducated,Married,$80K - $120K,Blue,37,6,2,2,22913.0,false
+789973308,44,M,College,Single,$60K - $80K,Blue,35,3,3,3,24312.0,false
+712876233,53,M,Graduate,Single,$80K - $120K,Blue,36,5,3,2,5272.0,false
+804595158,44,F,Graduate,Single,Less than $40K,Blue,36,6,4,2,7000.0,false
+714826758,37,F,Uneducated,Single,Less than $40K,Blue,29,4,4,2,7038.0,false
+779058108,49,M,Graduate,Divorced,$60K - $80K,Blue,30,6,1,2,2536.0,false
+710790258,47,M,Graduate,Married,$80K - $120K,Blue,38,6,3,2,28904.0,false
+715623483,47,M,Graduate,Married,$60K - $80K,Blue,37,4,4,0,8567.0,false
+715156383,44,M,Unknown,Unknown,$120K +,Blue,36,6,2,2,34516.0,false
+711013983,55,F,Unknown,Married,$40K - $60K,Blue,45,2,4,3,2158.0,true
+755420433,59,F,Graduate,Married,Unknown,Blue,52,2,3,3,10133.0,false
+794543958,53,M,Graduate,Divorced,$80K - $120K,Blue,35,5,4,2,34516.0,false
+716396358,52,M,Graduate,Married,$60K - $80K,Blue,47,5,3,0,3085.0,false
+715398033,53,M,High School,Single,$120K +,Blue,35,4,2,1,19040.0,false
+711743883,43,F,Uneducated,Single,Less than $40K,Blue,35,5,2,3,4026.0,false
+719720058,44,M,High School,Single,$60K - $80K,Blue,31,4,3,1,12756.0,false
+778992108,57,M,Unknown,Married,$120K +,Blue,45,5,3,3,5266.0,false
+717539808,51,F,High School,Single,Less than $40K,Blue,36,3,2,2,9930.0,false
+714070758,49,M,High School,Single,$80K - $120K,Blue,38,4,3,0,31302.0,false
+714107958,45,M,Graduate,Single,$40K - $60K,Blue,36,4,4,3,6576.0,false
+789140283,53,M,Graduate,Single,$80K - $120K,Blue,42,5,4,1,2664.0,false
+715550508,45,F,Unknown,Married,Unknown,Blue,28,5,1,2,2535.0,false
+719712633,64,M,Graduate,Married,Less than $40K,Blue,52,6,4,3,1709.0,false
+772629333,45,M,Graduate,Married,$40K - $60K,Blue,35,5,4,2,3454.0,false
+720336708,53,M,Doctorate,Married,$40K - $60K,Blue,35,5,3,2,3789.0,false
+802013583,56,M,College,Married,$120K +,Blue,50,3,2,0,9689.0,false
+711887583,47,M,Unknown,Married,$80K - $120K,Blue,37,2,3,3,5449.0,true
+714778833,49,F,College,Single,Unknown,Blue,43,4,4,0,23032.0,false
+713843283,41,F,Unknown,Married,Unknown,Silver,34,5,3,3,34516.0,false
+779155158,53,M,Graduate,Married,$120K +,Blue,34,6,2,2,2940.0,false
+721091583,44,F,Graduate,Single,Less than $40K,Blue,32,3,3,3,3031.0,false
+713572683,44,M,High School,Unknown,$60K - $80K,Blue,25,3,3,0,1862.0,false
+716657058,43,F,Post-Graduate,Married,Less than $40K,Blue,33,2,3,3,8358.0,false
+779509983,53,M,Post-Graduate,Single,$120K +,Blue,36,6,1,2,34516.0,false
+717929133,44,M,Uneducated,Married,$60K - $80K,Blue,36,5,2,3,14450.0,false
+808284783,62,F,Unknown,Married,Less than $40K,Blue,56,6,0,0,1438.3,false
+708476808,54,M,Unknown,Divorced,$120K +,Blue,36,6,3,2,33791.0,false
+710916408,57,M,Graduate,Married,$60K - $80K,Blue,39,4,3,0,8466.0,false
+708492558,42,M,Unknown,Married,$60K - $80K,Blue,36,5,3,3,15088.0,false
+799825758,42,M,High School,Divorced,$60K - $80K,Blue,36,5,1,2,3263.0,false
+718619883,54,F,Uneducated,Married,Less than $40K,Blue,36,2,2,2,1494.0,false
+711844758,48,M,Graduate,Single,$80K - $120K,Blue,35,6,1,0,13551.0,false
+714798783,49,M,Graduate,Single,$80K - $120K,Blue,36,6,2,2,18886.0,false
+826762908,52,M,High School,Unknown,$80K - $120K,Blue,48,3,2,0,11976.0,false
+771894558,50,M,High School,Single,$80K - $120K,Blue,39,4,1,4,9964.0,false
+721074183,49,M,Doctorate,Married,$60K - $80K,Blue,36,4,6,3,24159.0,false
+715259583,53,F,High School,Married,Less than $40K,Blue,44,3,2,3,5362.0,false
+718414008,50,M,Graduate,Single,$120K +,Blue,36,3,2,2,34516.0,false
+719666283,55,F,Doctorate,Married,Less than $40K,Blue,36,4,1,0,3174.0,false
+714877233,53,M,High School,Married,$80K - $120K,Blue,47,3,2,2,12262.0,false
+785387883,47,F,High School,Single,$40K - $60K,Blue,41,4,3,3,3788.0,false
+771075258,55,M,College,Single,$120K +,Silver,42,2,3,2,34516.0,false
+711318033,47,M,Graduate,Single,$60K - $80K,Blue,36,4,2,2,2926.0,false
+783554958,58,M,Graduate,Single,$120K +,Blue,52,6,1,0,32090.0,false
+720201033,53,M,Graduate,Married,$80K - $120K,Blue,41,3,3,2,11669.0,true
+718039683,52,M,High School,Single,$40K - $60K,Blue,45,3,1,2,13532.0,false
+710806083,50,F,Uneducated,Unknown,Less than $40K,Silver,36,4,2,2,11888.0,false
+714752208,42,F,Graduate,Married,Less than $40K,Blue,36,5,1,2,2393.0,false
+822063408,43,M,Unknown,Married,$40K - $60K,Blue,39,5,1,2,6111.0,false
+714490308,57,M,Graduate,Married,$80K - $120K,Blue,46,3,2,3,19270.0,false
+713356833,52,M,Graduate,Married,$80K - $120K,Blue,43,3,1,4,3710.0,false
+711402333,47,M,Doctorate,Single,Less than $40K,Blue,37,2,1,3,3235.0,false
+708296883,44,F,Graduate,Single,$40K - $60K,Blue,38,3,1,0,11749.0,false
+719154483,53,M,High School,Divorced,$60K - $80K,Blue,36,5,3,2,7753.0,false
+717721458,45,M,College,Divorced,$60K - $80K,Blue,40,5,1,0,10408.0,false
+711112683,63,F,College,Married,Unknown,Blue,36,6,2,3,3967.0,false
+715674483,39,F,Post-Graduate,Single,Less than $40K,Blue,27,4,2,2,6205.0,false
+789322833,48,F,High School,Married,Less than $40K,Blue,38,1,3,3,8025.0,true
+789968058,51,M,Unknown,Single,$120K +,Blue,42,6,2,3,9036.0,false
+709919283,54,M,Graduate,Married,$80K - $120K,Blue,34,2,3,2,14926.0,false
+718744008,59,F,Graduate,Single,Less than $40K,Blue,36,3,2,3,6335.0,false
+767712558,59,M,College,Single,$60K - $80K,Blue,53,2,3,3,14979.0,true
+712950783,48,F,Uneducated,Married,Less than $40K,Blue,38,3,2,3,2732.0,true
+716104983,41,F,Graduate,Single,Less than $40K,Blue,32,6,3,2,2250.0,false
+818839983,55,M,Graduate,Married,$120K +,Blue,50,3,2,0,10916.0,false
+772288758,47,F,Graduate,Married,Unknown,Blue,36,4,1,3,5349.0,false
+712350858,41,M,High School,Married,$80K - $120K,Blue,24,4,1,3,9366.0,false
+711009708,40,M,High School,Single,$80K - $120K,Blue,28,5,1,0,21617.0,false
+712720158,68,M,Graduate,Married,Unknown,Blue,56,5,2,3,13860.0,false
+712215258,50,F,Graduate,Single,$40K - $60K,Silver,31,2,2,3,18386.0,false
+773827008,47,M,Uneducated,Single,$60K - $80K,Blue,41,6,2,2,2405.0,false
+795232683,53,F,College,Married,Less than $40K,Blue,47,4,2,3,2154.0,false
+713786508,42,F,Unknown,Married,$40K - $60K,Blue,36,3,3,3,2038.0,false
+713539833,48,F,High School,Single,$40K - $60K,Blue,38,6,1,3,8135.0,false
+712454058,49,M,Doctorate,Married,$120K +,Blue,38,6,1,3,9364.0,false
+718759833,44,F,Uneducated,Married,Unknown,Silver,35,4,3,2,32643.0,false
+718803333,43,F,Graduate,Divorced,Less than $40K,Blue,34,2,3,1,3195.0,false
+720253908,56,M,High School,Married,$80K - $120K,Blue,43,5,2,1,2852.0,false
+714133158,59,F,College,Single,Unknown,Blue,36,2,3,3,4224.0,false
+713187033,46,M,Uneducated,Married,$60K - $80K,Blue,36,3,2,2,20459.0,false
+714791208,47,F,Unknown,Divorced,Less than $40K,Blue,41,6,5,3,3482.0,false
+772426383,50,F,Uneducated,Married,$40K - $60K,Blue,40,5,2,3,3065.0,false
+710975883,51,F,Uneducated,Married,Less than $40K,Blue,43,3,1,2,2185.0,false
+714264408,47,F,Uneducated,Married,Less than $40K,Blue,36,4,1,0,1611.0,false
+715827858,58,F,Uneducated,Married,Less than $40K,Blue,47,3,3,3,2822.0,false
+713741358,46,M,Graduate,Single,$80K - $120K,Blue,33,6,3,3,32975.0,true
+709531908,53,M,High School,Married,$60K - $80K,Blue,47,5,2,2,1438.3,false
+716493408,45,F,Uneducated,Divorced,Unknown,Blue,36,4,3,3,15875.0,false
+714141108,52,F,High School,Married,Less than $40K,Blue,45,6,3,3,6703.0,false
+708953883,53,M,Unknown,Married,$80K - $120K,Blue,36,2,2,1,3212.0,true
+712608783,50,M,High School,Married,$80K - $120K,Silver,45,3,1,3,34516.0,false
+820353558,41,F,High School,Married,$40K - $60K,Blue,36,4,1,2,9797.0,false
+714964758,45,F,Graduate,Divorced,$40K - $60K,Blue,36,5,2,2,10400.0,false
+716264358,53,M,Uneducated,Married,$80K - $120K,Blue,42,2,1,2,26792.0,false
+717296808,67,F,Graduate,Married,Less than $40K,Blue,56,4,3,2,3006.0,false
+712977183,57,F,Uneducated,Single,$40K - $60K,Silver,36,6,3,0,19482.0,false
+710829108,59,F,Uneducated,Married,$40K - $60K,Blue,36,4,2,3,3356.0,false
+779562633,45,M,Uneducated,Married,$40K - $60K,Blue,34,3,2,1,5771.0,false
+715315833,51,M,Graduate,Married,$80K - $120K,Blue,36,6,2,3,11106.0,false
+815500983,59,F,Uneducated,Married,Less than $40K,Blue,54,5,3,0,2890.0,false
+719360583,53,M,Graduate,Married,$60K - $80K,Blue,45,6,2,2,3380.0,false
+709701558,47,M,Graduate,Married,$60K - $80K,Blue,36,2,1,2,21331.0,false
+721148358,49,F,Uneducated,Single,Unknown,Blue,38,6,2,1,12860.0,false
+779862408,49,M,Post-Graduate,Single,$80K - $120K,Blue,33,3,1,0,6278.0,false
+812627208,60,F,College,Single,Less than $40K,Blue,55,5,1,3,1438.3,false
+711033408,50,F,High School,Married,Less than $40K,Blue,36,5,1,2,9355.0,false
+779956608,41,F,Post-Graduate,Married,Unknown,Blue,31,6,1,3,20758.0,false
+780376683,57,M,Graduate,Married,$80K - $120K,Blue,47,5,3,1,14612.0,false
+717912483,43,M,Graduate,Unknown,$80K - $120K,Blue,27,5,2,0,27259.0,false
+714454758,57,F,Graduate,Married,Less than $40K,Blue,47,4,2,3,6347.0,false
+780466533,54,M,Doctorate,Married,$120K +,Blue,41,3,3,0,21592.0,false
+715735233,51,F,Post-Graduate,Married,Less than $40K,Blue,44,5,1,1,3449.0,false
+720476733,47,F,High School,Married,Less than $40K,Blue,34,2,1,2,6028.0,false
+715872333,41,M,High School,Unknown,$120K +,Blue,36,3,2,3,18214.0,false
+712375758,53,M,Uneducated,Married,$80K - $120K,Blue,43,3,3,1,16393.0,false
+708868233,68,M,High School,Married,Less than $40K,Blue,52,1,3,2,1438.3,true
+718030083,59,M,College,Married,$60K - $80K,Blue,36,4,1,2,7871.0,false
+720707283,48,M,Unknown,Married,$80K - $120K,Blue,36,5,3,0,5288.0,false
+771698658,44,M,Graduate,Married,$60K - $80K,Blue,32,4,5,3,11376.0,false
+748326258,48,M,College,Married,$80K - $120K,Blue,41,4,5,3,12302.0,false
+770817783,47,M,Graduate,Married,$60K - $80K,Silver,33,3,2,1,34516.0,false
+779353083,47,M,Graduate,Married,$60K - $80K,Silver,32,4,2,2,34516.0,false
+711441333,43,F,High School,Divorced,Less than $40K,Silver,35,3,2,2,10514.0,false
+719808558,55,F,Graduate,Married,Less than $40K,Blue,43,2,4,3,1438.3,true
+711551958,59,M,Post-Graduate,Married,$60K - $80K,Blue,46,3,3,3,1438.3,true
+809164083,63,M,Graduate,Married,$40K - $60K,Blue,56,2,1,2,2619.0,false
+820596183,58,M,College,Married,$120K +,Blue,53,2,3,0,24407.0,false
+715999608,53,F,High School,Married,Less than $40K,Blue,36,4,1,2,2377.0,false
+710565408,59,M,Unknown,Unknown,$80K - $120K,Silver,40,3,2,3,34516.0,false
+805543158,52,M,Graduate,Married,$120K +,Blue,47,5,3,3,11086.0,false
+709752183,48,M,High School,Single,$60K - $80K,Blue,36,4,2,2,11432.0,false
+716479233,43,M,High School,Married,$40K - $60K,Blue,36,5,3,2,13258.0,false
+713837058,48,M,College,Single,Less than $40K,Blue,36,3,2,3,2571.0,false
+718876683,43,F,Graduate,Single,Less than $40K,Blue,31,5,2,0,5781.0,false
+770746908,44,M,Unknown,Married,$60K - $80K,Blue,30,5,1,2,7872.0,false
+794843883,41,M,High School,Married,$80K - $120K,Blue,35,6,1,2,34516.0,false
+803043933,44,F,Uneducated,Divorced,Less than $40K,Silver,38,4,1,3,11127.0,false
+758076408,50,M,Unknown,Single,$40K - $60K,Blue,43,2,1,3,1857.0,false
+714606558,60,F,Uneducated,Married,Less than $40K,Blue,36,5,1,0,1913.0,false
+778425408,44,M,Graduate,Single,$80K - $120K,Blue,24,5,3,0,3839.0,false
+714171108,48,F,Graduate,Divorced,$40K - $60K,Blue,39,6,2,3,2115.0,false
+719662458,44,F,Graduate,Divorced,Less than $40K,Blue,27,5,2,2,1438.3,false
+713137233,41,M,High School,Single,$80K - $120K,Blue,28,4,3,0,27756.0,false
+769425858,45,M,College,Single,$60K - $80K,Blue,32,4,1,2,1438.3,false
+711297483,47,F,Uneducated,Divorced,Less than $40K,Silver,34,6,4,2,13878.0,false
+788900883,51,F,Graduate,Married,Less than $40K,Blue,36,3,1,3,3106.0,false
+758348808,51,M,Graduate,Married,$120K +,Blue,44,4,3,3,34516.0,false
+772336458,60,F,Uneducated,Married,$40K - $60K,Blue,50,4,4,3,1438.3,true
+708711483,57,M,Unknown,Married,$80K - $120K,Blue,46,2,3,0,18871.0,false
+717906783,41,M,Graduate,Single,$120K +,Blue,29,5,2,2,5207.0,false
+719437908,44,M,Post-Graduate,Divorced,$80K - $120K,Blue,36,6,2,2,17965.0,false
+769433508,43,M,College,Single,$60K - $80K,Blue,37,6,3,3,2733.0,false
+790096533,55,M,College,Married,$60K - $80K,Blue,48,4,3,2,8863.0,false
+720997383,52,M,Uneducated,Married,$80K - $120K,Blue,36,2,3,3,1857.0,true
+787541883,44,M,Graduate,Unknown,$80K - $120K,Blue,33,3,3,3,34516.0,false
+709930758,41,M,Uneducated,Married,$40K - $60K,Blue,30,5,3,3,11107.0,false
+789830058,44,M,Unknown,Single,$80K - $120K,Blue,34,4,1,2,21573.0,false
+710299608,53,F,Unknown,Married,Less than $40K,Blue,33,2,3,3,2859.0,true
+710741208,39,M,High School,Single,$80K - $120K,Blue,36,4,2,2,5269.0,false
+821797008,49,M,College,Married,$40K - $60K,Blue,45,2,2,3,1438.3,true
+708874533,45,F,College,Married,Less than $40K,Blue,36,1,3,2,3387.0,true
+715341858,54,M,Graduate,Married,$80K - $120K,Blue,46,6,2,3,1982.0,false
+793636308,49,M,Uneducated,Single,$80K - $120K,Blue,43,2,2,2,4645.0,false
+713779908,46,F,Doctorate,Single,Unknown,Blue,36,6,3,2,2189.0,false
+712125258,46,M,High School,Married,$120K +,Blue,30,3,3,3,2442.0,true
+709703433,47,M,Graduate,Married,$60K - $80K,Blue,38,4,1,2,21304.0,false
+721022433,44,M,Doctorate,Single,$60K - $80K,Blue,36,5,1,2,7577.0,false
+710103558,50,M,Post-Graduate,Single,$120K +,Blue,31,4,1,2,3234.0,false
+715952883,73,M,High School,Married,$40K - $60K,Blue,36,5,3,2,4469.0,false
+719731458,56,M,Unknown,Unknown,$40K - $60K,Blue,46,6,3,4,2910.0,false
+772390908,59,M,High School,Single,$40K - $60K,Blue,48,2,4,3,3616.0,true
+787348608,70,M,High School,Married,Less than $40K,Blue,56,3,2,3,3252.0,false
+709485033,55,F,High School,Married,Less than $40K,Blue,36,4,3,3,2358.0,false
+715432608,43,M,Unknown,Single,$60K - $80K,Blue,36,4,1,0,22322.0,false
+799471833,45,M,Uneducated,Single,$120K +,Blue,39,4,2,2,3133.0,false
+714187533,45,F,Uneducated,Single,$40K - $60K,Blue,35,2,3,0,3540.0,false
+779656908,40,M,Graduate,Married,$40K - $60K,Blue,23,6,3,2,6990.0,false
+788950158,36,M,College,Unknown,$80K - $120K,Blue,22,2,2,3,34516.0,false
+778867533,59,F,Post-Graduate,Married,$40K - $60K,Blue,40,1,4,1,1438.3,true
+710620383,43,M,Unknown,Married,$60K - $80K,Blue,35,6,3,2,24396.0,false
+778661358,46,F,Unknown,Married,Less than $40K,Blue,36,2,3,2,2474.0,false
+789483333,41,M,Uneducated,Married,$40K - $60K,Blue,32,5,1,3,5214.0,false
+809855808,51,F,Graduate,Married,Less than $40K,Blue,46,5,2,2,5207.0,false
+718464258,51,F,Unknown,Unknown,Less than $40K,Blue,25,2,2,2,9512.0,false
+708528483,43,F,Graduate,Divorced,Unknown,Blue,23,6,3,2,3187.0,false
+771809733,64,F,High School,Married,$40K - $60K,Blue,53,1,3,3,3353.0,true
+719942883,54,M,Graduate,Married,$60K - $80K,Blue,38,3,3,3,2290.0,false
+807226683,48,M,Unknown,Single,$40K - $60K,Blue,43,6,1,3,5279.0,false
+717806133,40,M,Uneducated,Divorced,$60K - $80K,Blue,29,5,3,0,23603.0,false
+720615708,57,M,Uneducated,Married,$40K - $60K,Blue,45,6,2,2,2601.0,false
+714511758,45,M,Graduate,Single,$80K - $120K,Blue,40,4,3,0,6363.0,false
+715050408,41,M,High School,Single,$80K - $120K,Blue,36,4,3,3,8029.0,false
+721132233,42,F,Uneducated,Married,Less than $40K,Blue,31,2,2,2,2410.0,false
+719211558,45,M,Graduate,Single,$60K - $80K,Blue,36,1,1,2,3401.0,true
+712069008,42,F,Uneducated,Married,Less than $40K,Blue,23,4,2,0,2260.0,false
+715996983,47,M,Uneducated,Divorced,$80K - $120K,Blue,30,5,2,2,17682.0,false
+773466258,48,F,High School,Married,$40K - $60K,Blue,42,3,1,3,4206.0,false
+798983508,43,M,Graduate,Single,$80K - $120K,Silver,37,4,3,2,34516.0,false
+719117433,41,M,High School,Unknown,$80K - $120K,Blue,36,4,3,0,23018.0,false
+716451183,54,F,Uneducated,Married,$40K - $60K,Blue,44,5,2,3,5556.0,false
+718621608,54,F,High School,Married,Unknown,Blue,44,3,3,1,6094.0,true
+715085733,61,M,Graduate,Married,$40K - $60K,Blue,52,3,1,2,2939.0,false
+788977833,61,M,Uneducated,Married,$80K - $120K,Blue,48,2,1,0,5362.0,false
+720272958,48,M,High School,Married,$120K +,Blue,36,3,3,3,27126.0,true
+708421833,45,F,Graduate,Single,Less than $40K,Blue,36,6,3,2,3342.0,false
+709173108,54,F,Graduate,Married,Unknown,Blue,40,6,2,2,2532.0,true
+709879458,54,F,Doctorate,Married,Unknown,Blue,46,2,2,3,1900.0,false
+715120608,44,M,Graduate,Single,$60K - $80K,Blue,37,2,3,2,14546.0,false
+770632758,50,F,Doctorate,Single,Unknown,Blue,36,2,3,2,2521.0,false
+779078733,55,M,Doctorate,Married,$60K - $80K,Blue,36,3,4,3,16427.0,false
+771742533,48,M,Graduate,Unknown,$40K - $60K,Blue,36,5,1,2,13068.0,false
+720250158,45,M,College,Single,$60K - $80K,Blue,33,6,3,0,23218.0,false
+716458983,60,M,High School,Married,$40K - $60K,Blue,36,5,1,3,3281.0,false
+713747733,55,M,High School,Married,$40K - $60K,Blue,47,5,3,2,3096.0,false
+712270158,62,F,High School,Married,$40K - $60K,Blue,52,5,2,3,2052.0,false
+789562383,38,F,High School,Unknown,Less than $40K,Blue,30,2,3,0,1438.3,false
+754897008,46,M,High School,Single,$40K - $60K,Blue,39,2,3,2,9432.0,false
+819700533,50,M,High School,Single,$120K +,Silver,45,5,2,3,14938.0,false
+712890408,45,M,Uneducated,Married,$60K - $80K,Blue,36,5,3,2,2221.0,false
+720248208,47,M,Post-Graduate,Divorced,$60K - $80K,Blue,37,6,3,0,5731.0,false
+779749908,48,M,College,Married,$60K - $80K,Gold,33,2,2,3,34516.0,false
+717401883,35,M,Uneducated,Married,$60K - $80K,Blue,22,5,2,2,6985.0,false
+721509558,51,M,Graduate,Married,$120K +,Blue,42,3,3,0,24221.0,false
+710572458,36,F,High School,Married,Unknown,Blue,24,4,1,1,15439.0,false
+714576183,47,M,Graduate,Single,$80K - $120K,Blue,36,6,3,2,21637.0,false
+721425558,52,M,Graduate,Single,$120K +,Blue,37,2,3,2,14543.0,false
+711109908,43,F,Uneducated,Married,Less than $40K,Blue,36,2,1,1,9684.0,false
+715203108,63,M,High School,Married,$40K - $60K,Blue,36,2,2,2,5007.0,false
+710027508,61,M,Graduate,Married,$60K - $80K,Blue,54,3,2,0,1616.0,false
+787464408,53,M,Uneducated,Single,$60K - $80K,Blue,40,5,2,2,19116.0,false
+783542133,53,F,Graduate,Married,Less than $40K,Blue,47,5,6,2,2759.0,false
+708330858,57,M,Graduate,Married,$120K +,Blue,38,2,3,3,8249.0,true
+714426783,38,F,Graduate,Single,Unknown,Blue,31,2,3,2,14041.0,false
+712701333,53,M,High School,Married,$60K - $80K,Blue,43,5,3,2,5264.0,false
+709494483,63,F,Unknown,Married,Less than $40K,Blue,54,4,2,1,2420.0,false
+773373108,49,F,High School,Married,Less than $40K,Blue,43,4,2,0,2826.0,false
+715812258,45,M,High School,Married,$80K - $120K,Blue,34,5,5,2,12518.0,false
+778286433,67,M,Graduate,Married,$40K - $60K,Blue,56,4,2,1,5876.0,false
+789270033,48,M,Graduate,Single,$80K - $120K,Silver,37,3,2,3,34516.0,false
+711569433,51,F,Uneducated,Divorced,Less than $40K,Blue,38,4,1,2,9648.0,false
+720214833,52,M,High School,Single,$80K - $120K,Silver,40,3,3,3,34516.0,false
+709346133,55,F,Uneducated,Married,Unknown,Blue,35,3,3,0,3025.0,false
+788194458,34,M,High School,Married,$60K - $80K,Blue,26,4,3,3,3265.0,false
+720779733,56,M,Uneducated,Married,$120K +,Blue,36,3,2,2,6041.0,false
+717424458,44,F,Post-Graduate,Married,Less than $40K,Blue,36,3,3,2,2293.0,false
+708820308,47,M,Post-Graduate,Unknown,$80K - $120K,Blue,36,6,2,2,13399.0,false
+710558058,46,F,Unknown,Married,Less than $40K,Blue,38,4,3,3,4317.0,false
+770590758,43,F,Graduate,Single,$40K - $60K,Blue,29,5,2,0,3378.0,false
+718490658,50,F,Graduate,Single,Less than $40K,Blue,36,4,1,3,5012.0,false
+711985833,38,F,Uneducated,Single,Less than $40K,Blue,30,4,1,0,2569.0,false
+708967608,53,F,Graduate,Single,Less than $40K,Blue,45,3,1,2,3471.0,false
+718505958,43,M,Graduate,Divorced,$120K +,Silver,31,5,3,3,34516.0,false
+715024233,53,M,High School,Married,$120K +,Blue,36,6,3,2,3312.0,false
+779249583,56,F,Graduate,Married,Less than $40K,Blue,38,4,3,3,2578.0,false
+709278258,54,M,Unknown,Married,$40K - $60K,Blue,44,4,3,2,2902.0,true
+778928283,57,F,High School,Married,Less than $40K,Blue,39,3,2,1,2742.0,false
+712299858,62,M,High School,Married,Less than $40K,Blue,53,5,3,3,2077.0,false
+799224108,46,F,Graduate,Single,Less than $40K,Blue,40,5,1,2,6265.0,false
+809976033,49,M,Uneducated,Married,$60K - $80K,Blue,44,6,3,0,7819.0,false
+716203308,52,M,Graduate,Single,$80K - $120K,Blue,42,6,3,3,2731.0,false
+714871683,58,M,Uneducated,Married,$40K - $60K,Blue,36,2,4,3,1438.3,true
+716139933,54,M,High School,Married,$80K - $120K,Blue,36,3,1,2,16286.0,false
+716984658,49,M,Graduate,Married,$120K +,Blue,39,3,2,3,34516.0,false
+713086008,58,F,High School,Married,Less than $40K,Blue,47,6,1,0,2609.0,false
+713773458,52,M,High School,Single,$60K - $80K,Blue,45,5,3,2,7567.0,false
+719242533,41,M,High School,Married,$60K - $80K,Blue,33,5,3,3,22770.0,false
+772712658,62,F,Uneducated,Married,Less than $40K,Blue,50,5,1,2,3791.0,false
+788868858,54,M,Graduate,Married,Less than $40K,Blue,39,4,4,2,2702.0,false
+811898133,40,F,High School,Divorced,Less than $40K,Blue,35,3,1,3,2555.0,false
+788808633,43,M,Graduate,Married,$80K - $120K,Blue,26,5,3,2,2355.0,false
+779804208,53,F,Graduate,Single,$40K - $60K,Blue,42,6,2,0,5332.0,false
+781391058,55,M,Uneducated,Single,$40K - $60K,Blue,49,6,3,2,1443.0,false
+790134408,46,M,Graduate,Single,$60K - $80K,Blue,39,6,2,3,10741.0,false
+788853258,41,M,Uneducated,Married,$60K - $80K,Blue,25,3,2,0,7984.0,false
+711857733,49,M,Uneducated,Single,$60K - $80K,Blue,32,3,2,2,18584.0,false
+822969858,61,F,Graduate,Married,Unknown,Blue,56,4,1,3,5585.0,false
+719554758,46,M,Uneducated,Married,$80K - $120K,Blue,38,6,3,2,34516.0,false
+711643458,50,F,Uneducated,Married,Less than $40K,Blue,43,6,3,4,1438.3,false
+788830683,40,M,Graduate,Single,$80K - $120K,Blue,24,5,1,0,2478.0,false
+807030858,51,M,High School,Single,$120K +,Blue,46,6,3,3,34516.0,false
+793059108,50,F,Graduate,Married,$40K - $60K,Blue,44,6,2,3,2339.0,false
+716568708,47,F,Graduate,Married,Less than $40K,Blue,36,6,3,2,2726.0,false
+828281733,43,M,Unknown,Married,$120K +,Blue,39,3,3,3,14881.0,false
+717229158,36,F,Graduate,Married,$40K - $60K,Blue,36,6,3,3,1628.0,false
+715915458,47,F,Graduate,Married,Less than $40K,Blue,34,5,2,2,3156.0,false
+819129858,46,F,Graduate,Single,Less than $40K,Blue,41,5,3,0,4745.0,false
+713441958,46,M,High School,Married,$120K +,Blue,36,5,3,2,19727.0,false
+719091333,52,M,Uneducated,Married,$60K - $80K,Blue,36,3,3,2,22720.0,false
+708666258,43,M,Unknown,Married,$40K - $60K,Blue,36,5,3,0,8129.0,false
+714914583,40,F,Graduate,Single,Less than $40K,Blue,27,6,2,3,3751.0,false
+714363858,54,F,High School,Married,Less than $40K,Blue,36,3,5,3,1594.0,false
+721347408,55,F,High School,Single,Less than $40K,Blue,43,4,2,0,2569.0,false
+809608533,49,F,Post-Graduate,Single,Unknown,Blue,44,6,3,2,18206.0,false
+772047183,45,M,High School,Married,$40K - $60K,Blue,34,6,3,3,3104.0,false
+714217908,49,M,Graduate,Married,$40K - $60K,Blue,41,5,3,2,2406.0,false
+714819183,63,M,Uneducated,Married,$80K - $120K,Blue,36,5,2,3,24571.0,false
+716455683,40,F,High School,Single,Less than $40K,Gold,36,3,2,3,15534.0,false
+710865633,41,F,Graduate,Married,Less than $40K,Silver,33,4,2,0,12301.0,false
+752952108,37,M,Graduate,Married,$80K - $120K,Blue,26,6,2,3,2846.0,false
+712595433,58,M,Uneducated,Unknown,$120K +,Blue,49,6,2,3,9788.0,false
+714982383,55,M,High School,Married,$60K - $80K,Blue,36,4,3,3,7231.0,false
+813814008,53,F,High School,Married,Less than $40K,Blue,48,6,3,2,2324.0,false
+794545983,57,M,Graduate,Married,$80K - $120K,Blue,40,3,2,3,12208.0,false
+708288108,43,M,Post-Graduate,Unknown,$80K - $120K,Blue,30,2,5,3,5639.0,true
+715585158,58,M,Graduate,Married,$60K - $80K,Blue,46,3,3,2,10021.0,false
+810449883,64,M,Unknown,Married,Less than $40K,Blue,56,6,1,0,2215.0,false
+789863208,54,F,Graduate,Married,Less than $40K,Blue,44,3,2,3,2027.0,false
+715022133,53,M,Graduate,Married,$60K - $80K,Blue,47,6,2,2,6363.0,false
+712506708,39,F,College,Single,Less than $40K,Blue,25,6,1,2,3920.0,false
+715699983,56,M,High School,Married,$60K - $80K,Blue,36,5,1,3,9226.0,false
+818942433,54,F,Unknown,Divorced,Less than $40K,Blue,49,6,1,1,9376.0,false
+712459233,59,F,Post-Graduate,Married,$40K - $60K,Blue,46,5,3,3,1944.0,false
+716545383,42,M,Uneducated,Single,$40K - $60K,Blue,36,3,1,0,9599.0,false
+721144383,42,M,Graduate,Married,$60K - $80K,Silver,28,5,1,2,28202.0,false
+821837958,43,M,College,Unknown,$80K - $120K,Blue,39,3,3,1,24850.0,false
+804359133,55,M,High School,Married,$120K +,Blue,49,5,3,3,3805.0,false
+713308683,52,M,Uneducated,Single,$80K - $120K,Blue,37,5,2,2,2733.0,false
+788780958,46,M,Uneducated,Unknown,$40K - $60K,Blue,27,6,3,3,12781.0,false
+717354558,57,M,Uneducated,Married,$120K +,Blue,40,3,3,3,3106.0,true
+798473808,48,M,College,Married,$80K - $120K,Blue,42,3,3,0,7477.0,false
+712372158,45,M,Unknown,Married,$120K +,Blue,33,6,1,3,34516.0,false
+715192308,48,M,High School,Married,$120K +,Blue,36,6,5,2,29963.0,false
+708813033,47,M,Graduate,Single,$40K - $60K,Blue,36,5,3,0,6509.0,false
+714639783,42,M,College,Married,$60K - $80K,Blue,34,3,3,3,13450.0,true
+709311633,41,M,Graduate,Unknown,$60K - $80K,Silver,36,6,2,0,27000.0,false
+709470858,51,M,College,Married,$120K +,Silver,31,5,2,1,34516.0,false
+717292758,55,F,Graduate,Single,Less than $40K,Blue,47,5,3,2,6347.0,false
+779241783,67,M,Uneducated,Married,$40K - $60K,Blue,49,4,3,2,3106.0,false
+715205358,39,M,Graduate,Married,$60K - $80K,Blue,31,4,1,1,2536.0,false
+778871508,54,M,Post-Graduate,Single,$60K - $80K,Blue,35,6,3,0,13048.0,false
+779462433,55,F,Unknown,Married,Less than $40K,Blue,37,3,3,1,2453.0,false
+710147958,47,M,High School,Married,$40K - $60K,Silver,36,3,2,2,16138.0,false
+709864833,49,M,Post-Graduate,Married,$60K - $80K,Blue,38,3,2,0,8077.0,false
+778868958,42,F,Graduate,Married,Less than $40K,Blue,23,3,3,3,1929.0,true
+717276708,57,M,Unknown,Single,$80K - $120K,Blue,36,3,3,2,3127.0,false
+710004933,44,M,Uneducated,Married,$60K - $80K,Blue,36,3,3,2,8645.0,false
+753606108,56,M,Unknown,Single,$60K - $80K,Blue,49,3,1,3,1438.3,false
+710940183,49,F,Graduate,Married,Less than $40K,Blue,38,6,3,2,2185.0,true
+718927533,45,M,Graduate,Single,$80K - $120K,Blue,32,5,2,2,24487.0,false
+719337408,63,M,High School,Married,$60K - $80K,Blue,36,6,2,3,2567.0,false
+772308408,44,M,Graduate,Single,$80K - $120K,Blue,33,6,3,3,4131.0,false
+712981383,44,F,College,Married,Less than $40K,Silver,37,3,2,2,10790.0,false
+790099758,40,M,High School,Married,$40K - $60K,Blue,33,4,3,3,6884.0,false
+709547658,39,M,Uneducated,Single,$60K - $80K,Blue,36,5,3,3,13961.0,true
+778770783,42,M,High School,Married,$80K - $120K,Blue,30,6,1,0,29801.0,false
+713134458,54,M,High School,Married,$120K +,Blue,43,4,1,1,13219.0,false
+712159083,58,F,Unknown,Married,Less than $40K,Blue,46,2,3,3,2536.0,true
+713639958,46,F,Graduate,Divorced,Less than $40K,Blue,36,5,3,1,9478.0,false
+771180033,47,F,Unknown,Divorced,$40K - $60K,Blue,34,6,1,2,3502.0,false
+717916758,67,F,Unknown,Married,Unknown,Blue,56,4,3,3,10509.0,false
+711089733,50,F,College,Divorced,Less than $40K,Blue,36,3,3,0,1491.0,false
+716988633,55,M,High School,Divorced,$60K - $80K,Blue,46,6,1,2,9734.0,false
+779031033,46,F,Graduate,Married,$40K - $60K,Blue,22,6,1,3,2305.0,false
+716302383,47,F,Uneducated,Married,$40K - $60K,Blue,36,3,1,3,14241.0,false
+718281408,36,F,Unknown,Married,$40K - $60K,Blue,25,3,1,2,4789.0,false
+721333233,40,M,Doctorate,Divorced,$60K - $80K,Blue,34,4,2,3,23138.0,false
+794496033,57,M,Unknown,Single,$80K - $120K,Blue,38,6,1,3,23008.0,false
+710519433,48,M,Unknown,Divorced,$80K - $120K,Blue,36,3,1,0,3131.0,false
+814995933,58,F,Graduate,Married,Less than $40K,Blue,53,5,3,2,5798.0,false
+721469433,48,M,Graduate,Single,$40K - $60K,Blue,36,5,2,3,6880.0,false
+788386908,48,M,Graduate,Unknown,$80K - $120K,Platinum,41,3,2,2,34516.0,false
+717198633,53,F,College,Married,$40K - $60K,Blue,34,6,2,1,2075.0,false
+767695083,50,M,Graduate,Married,$80K - $120K,Blue,44,3,3,0,4589.0,false
+711791583,52,F,Graduate,Single,Less than $40K,Blue,40,1,2,2,2317.0,true
+712315683,53,F,Uneducated,Single,Less than $40K,Blue,45,1,1,1,1981.0,true
+710038008,56,F,Graduate,Single,$40K - $60K,Blue,47,3,2,1,6038.0,false
+789129033,44,M,Unknown,Single,$80K - $120K,Blue,32,5,3,2,14910.0,false
+718349058,49,M,High School,Married,$80K - $120K,Blue,39,3,3,2,29659.0,false
+789842283,54,M,Graduate,Married,$60K - $80K,Blue,42,3,3,2,4320.0,true
+714513033,39,F,Unknown,Single,$40K - $60K,Blue,36,6,1,3,11213.0,false
+714717483,39,F,Uneducated,Divorced,Unknown,Blue,29,5,1,2,26181.0,false
+714900408,41,F,High School,Single,Less than $40K,Blue,31,3,1,0,5773.0,false
+719418933,53,M,Uneducated,Married,$80K - $120K,Blue,36,1,3,3,4503.0,true
+720115683,47,M,Uneducated,Married,$80K - $120K,Blue,36,6,2,2,29770.0,false
+779504058,46,F,Post-Graduate,Married,Less than $40K,Blue,28,5,1,1,5014.0,false
+795979833,53,F,High School,Married,Less than $40K,Blue,47,6,1,2,3445.0,false
+717392358,60,M,Graduate,Married,$80K - $120K,Blue,50,6,2,2,23412.0,false
+718640508,59,F,Graduate,Single,Less than $40K,Blue,46,4,1,2,3044.0,false
+803366358,38,M,Unknown,Single,$60K - $80K,Blue,29,5,2,1,14596.0,false
+709230708,56,M,Uneducated,Single,Less than $40K,Blue,36,3,2,2,3864.0,false
+781794708,35,M,Post-Graduate,Unknown,$80K - $120K,Blue,29,2,1,3,17030.0,true
+801383808,50,M,Graduate,Single,$60K - $80K,Blue,44,4,2,3,23090.0,false
+710677608,53,M,Post-Graduate,Unknown,$80K - $120K,Blue,36,4,2,0,29205.0,false
+708217758,63,M,Graduate,Married,$60K - $80K,Blue,49,5,2,3,14035.0,false
+714272658,43,F,Uneducated,Single,Less than $40K,Blue,24,2,3,2,2962.0,true
+717469158,46,M,Unknown,Married,$80K - $120K,Blue,30,6,3,0,18578.0,false
+711864783,61,M,Uneducated,Single,$60K - $80K,Blue,46,5,3,2,2201.0,false
+719407983,37,F,Post-Graduate,Married,Less than $40K,Blue,25,4,3,2,2061.0,false
+710665533,42,F,Doctorate,Married,Unknown,Blue,23,4,2,2,24602.0,false
+716804283,41,M,Uneducated,Divorced,$120K +,Blue,29,3,2,2,15911.0,false
+767294658,56,M,College,Single,$120K +,Blue,50,2,2,3,16867.0,true
+709122483,56,M,Graduate,Married,$60K - $80K,Blue,37,3,3,0,2783.0,false
+708241233,52,F,Post-Graduate,Single,Less than $40K,Blue,47,3,3,2,2972.0,true
+717860358,40,F,High School,Single,$40K - $60K,Blue,36,5,3,2,5124.0,false
+789337233,63,M,Graduate,Married,$40K - $60K,Blue,53,6,6,2,2880.0,false
+720902133,58,M,High School,Single,$40K - $60K,Blue,46,4,1,0,5579.0,false
+721043058,58,M,Unknown,Married,$60K - $80K,Blue,44,5,1,3,12010.0,false
+711870333,46,M,Uneducated,Divorced,$80K - $120K,Blue,36,6,3,3,34516.0,false
+708398283,37,F,Graduate,Married,$40K - $60K,Blue,29,5,2,2,4394.0,false
+715878183,46,M,Graduate,Single,$80K - $120K,Blue,35,4,3,3,18325.0,false
+719451483,46,F,Post-Graduate,Married,Less than $40K,Blue,37,5,3,2,3773.0,false
+709110633,41,M,Graduate,Single,$80K - $120K,Blue,29,5,1,3,21684.0,false
+721059033,48,F,High School,Divorced,$40K - $60K,Blue,40,4,1,2,1919.0,false
+779912283,49,F,Graduate,Single,$40K - $60K,Blue,33,5,3,2,9995.0,false
+717701733,44,M,Graduate,Married,$80K - $120K,Blue,35,3,2,2,11910.0,false
+709913733,39,F,College,Married,Less than $40K,Blue,36,4,2,0,2279.0,false
+718768158,57,M,College,Single,$40K - $60K,Blue,48,3,1,2,3539.0,false
+721375308,48,M,High School,Married,$80K - $120K,Blue,36,5,1,3,30579.0,false
+711374283,47,M,High School,Single,$80K - $120K,Blue,42,4,1,0,24480.0,false
+822893133,56,F,Uneducated,Divorced,Unknown,Blue,52,6,1,2,17561.0,false
+778465533,54,F,College,Married,Less than $40K,Blue,40,3,1,2,1638.0,false
+712138983,54,M,Graduate,Married,$60K - $80K,Blue,36,3,3,2,2947.0,false
+716920908,52,M,High School,Married,$80K - $120K,Blue,42,6,1,0,5738.0,false
+708095133,43,M,Unknown,Unknown,$120K +,Blue,34,5,2,2,33304.0,false
+711195558,59,M,College,Single,$40K - $60K,Blue,48,6,3,3,7251.0,false
+772735758,44,M,Unknown,Married,Unknown,Blue,34,6,2,0,2885.0,false
+712024908,56,F,College,Married,Less than $40K,Blue,36,6,2,3,2641.0,false
+778239933,45,F,Graduate,Married,Unknown,Blue,35,6,3,0,2801.0,false
+714893733,55,M,High School,Married,$80K - $120K,Blue,45,3,3,3,16794.0,false
+754886958,48,F,College,Divorced,$40K - $60K,Blue,41,4,1,3,9336.0,false
+710104908,56,F,College,Single,Less than $40K,Blue,43,4,1,0,2763.0,false
+710558883,41,M,Uneducated,Married,$60K - $80K,Blue,36,5,3,2,17391.0,false
+713827383,65,F,High School,Married,Less than $40K,Blue,36,3,2,0,3198.0,false
+720267033,34,M,Post-Graduate,Single,$80K - $120K,Blue,26,3,3,2,5100.0,false
+712049208,56,M,Post-Graduate,Married,$60K - $80K,Blue,39,3,1,2,3955.0,false
+708688608,62,F,High School,Married,Less than $40K,Blue,48,5,3,1,3140.0,false
+716223708,45,F,Uneducated,Single,Unknown,Blue,36,3,3,3,4028.0,true
+713217858,38,F,Uneducated,Single,Less than $40K,Blue,32,5,3,3,2264.0,false
+819352983,49,M,Unknown,Unknown,$120K +,Blue,44,5,2,2,21620.0,false
+711019308,58,M,High School,Single,$60K - $80K,Blue,45,3,2,0,6385.0,false
+768600558,41,F,Graduate,Single,$40K - $60K,Blue,31,4,2,3,2375.0,false
+710202783,33,M,Graduate,Married,$60K - $80K,Blue,13,3,3,3,1963.0,false
+712899333,47,F,College,Single,Less than $40K,Blue,37,6,2,2,4256.0,false
+767036433,56,F,Graduate,Married,Less than $40K,Blue,49,5,1,0,5097.0,false
+793473033,51,M,Graduate,Single,$60K - $80K,Blue,45,3,2,3,3228.0,false
+721232058,49,M,Graduate,Unknown,$40K - $60K,Silver,41,6,1,3,20231.0,false
+719443683,50,M,Unknown,Single,$120K +,Blue,39,3,2,3,27512.0,true
+715449333,55,F,Unknown,Married,$40K - $60K,Blue,47,5,2,0,1929.0,false
+717998058,26,M,Graduate,Single,Less than $40K,Blue,13,6,3,2,2585.0,false
+779610033,58,M,College,Married,$80K - $120K,Blue,47,3,3,3,12151.0,true
+827332983,46,M,High School,Single,$80K - $120K,Gold,42,3,2,2,34516.0,false
+721183983,48,M,High School,Married,$120K +,Blue,31,6,3,1,34516.0,false
+718426533,42,M,Uneducated,Divorced,$60K - $80K,Blue,32,4,1,2,5504.0,false
+710698233,37,M,Graduate,Married,$80K - $120K,Blue,28,4,1,2,10021.0,false
+780253533,63,F,Unknown,Married,Less than $40K,Blue,49,5,3,0,3558.0,false
+793581933,50,M,High School,Single,$40K - $60K,Silver,44,4,3,4,19853.0,false
+719229708,41,F,High School,Single,$40K - $60K,Blue,31,6,3,2,4969.0,false
+715158483,48,F,Graduate,Divorced,Less than $40K,Blue,40,3,2,3,3117.0,false
+809296308,46,M,College,Single,$80K - $120K,Blue,41,4,2,0,21526.0,false
+778176108,61,M,High School,Single,$60K - $80K,Blue,51,4,2,2,5504.0,false
+796532958,59,F,Unknown,Married,Less than $40K,Blue,53,4,3,2,5512.0,false
+709345008,53,F,Doctorate,Married,Unknown,Blue,39,1,2,3,1438.3,true
+717049533,39,F,Doctorate,Unknown,$40K - $60K,Blue,28,5,3,0,7262.0,false
+719366358,51,M,High School,Married,$120K +,Blue,40,6,3,2,7319.0,false
+721417233,45,M,Graduate,Married,$60K - $80K,Blue,25,3,5,3,1438.3,true
+711622683,48,M,Unknown,Single,$60K - $80K,Blue,30,4,3,3,7712.0,false
+714578283,47,M,Graduate,Married,$60K - $80K,Blue,37,6,3,0,2053.0,false
+769574883,41,M,High School,Married,$40K - $60K,Blue,32,3,1,3,12804.0,false
+717643608,48,M,College,Married,$80K - $120K,Blue,36,3,3,2,26443.0,false
+709198158,50,F,Graduate,Single,Less than $40K,Blue,36,6,2,0,3125.0,false
+712419708,56,F,Post-Graduate,Married,Less than $40K,Blue,48,6,1,2,4930.0,false
+709103358,39,F,College,Single,Less than $40K,Blue,36,6,3,3,9476.0,false
+716966808,47,M,Graduate,Married,$80K - $120K,Blue,37,6,3,3,11722.0,false
+772264383,44,M,Graduate,Single,$120K +,Blue,33,4,1,3,13301.0,false
+721057758,61,F,Unknown,Married,Unknown,Blue,47,4,2,3,1438.3,false
+769137108,43,F,Post-Graduate,Married,Less than $40K,Blue,37,3,3,1,1438.3,true
+717640083,59,M,High School,Married,$60K - $80K,Blue,36,3,2,3,6705.0,true
+716445783,42,F,Uneducated,Married,Unknown,Blue,31,4,2,0,22718.0,false
+708579633,40,M,Unknown,Divorced,$40K - $60K,Gold,28,4,2,2,23981.0,false
+718715583,65,M,Unknown,Married,Less than $40K,Blue,56,4,2,4,2318.0,false
+778686408,48,M,College,Married,$60K - $80K,Blue,29,4,3,2,19324.0,false
+715015683,44,M,Graduate,Single,$40K - $60K,Blue,34,5,3,1,5331.0,false
+805254708,36,F,Unknown,Married,Unknown,Blue,31,5,2,0,15700.0,false
+710462433,45,M,Graduate,Single,$60K - $80K,Blue,30,6,2,2,17625.0,false
+721342383,39,M,Graduate,Married,$80K - $120K,Blue,34,6,3,2,17438.0,false
+720179883,40,M,College,Unknown,$80K - $120K,Blue,25,3,3,1,1962.0,false
+794977533,62,M,High School,Married,$60K - $80K,Blue,56,3,3,2,8077.0,true
+779445108,26,M,Graduate,Single,$40K - $60K,Blue,13,6,1,2,3290.0,false
+718193958,60,M,Uneducated,Single,Less than $40K,Blue,53,5,3,2,2402.0,false
+710955633,54,F,Doctorate,Single,Less than $40K,Blue,42,6,1,0,9256.0,false
+716149383,62,M,Graduate,Married,$60K - $80K,Blue,36,6,3,3,3674.0,false
+752604633,57,M,College,Married,$40K - $60K,Blue,50,2,5,3,6462.0,true
+713889933,59,M,Graduate,Single,$40K - $60K,Blue,48,4,2,2,1638.0,false
+709446783,46,M,Graduate,Single,$60K - $80K,Blue,38,3,3,2,4335.0,false
+789115833,44,M,High School,Single,$60K - $80K,Blue,32,5,3,2,3233.0,false
+711242058,48,M,Unknown,Single,$80K - $120K,Blue,36,1,3,1,11862.0,true
+787623858,43,M,Uneducated,Divorced,$120K +,Silver,24,4,2,0,34516.0,false
+709040508,57,M,Uneducated,Married,$120K +,Blue,38,6,6,2,19802.0,false
+708864708,46,M,College,Unknown,$80K - $120K,Blue,36,4,2,2,24869.0,false
+717758583,40,M,High School,Unknown,$60K - $80K,Blue,36,4,2,1,3624.0,false
+715416633,54,M,Unknown,Married,$80K - $120K,Blue,36,4,1,2,6175.0,false
+717956283,57,F,Graduate,Single,$40K - $60K,Blue,48,5,1,0,10953.0,false
+721379433,44,M,Graduate,Married,$60K - $80K,Blue,28,6,2,3,11338.0,false
+712027683,47,F,Doctorate,Married,Less than $40K,Blue,35,3,2,2,5544.0,false
+716027208,47,M,Doctorate,Married,$60K - $80K,Blue,36,4,1,1,19665.0,false
+720475233,50,F,High School,Married,Less than $40K,Blue,43,6,2,3,2927.0,false
+712275108,53,F,College,Married,$40K - $60K,Blue,33,4,3,3,5146.0,false
+718121658,56,M,College,Married,$60K - $80K,Blue,44,5,3,3,1704.0,true
+711593808,55,M,High School,Married,$60K - $80K,Blue,46,2,2,3,1438.3,true
+716222808,53,F,High School,Married,Less than $40K,Blue,36,6,1,3,2974.0,false
+718731183,61,M,Unknown,Married,$40K - $60K,Blue,49,1,2,2,5472.0,true
+788779008,57,M,High School,Married,$60K - $80K,Blue,38,3,1,2,2736.0,false
+710404533,50,M,Graduate,Married,$80K - $120K,Blue,37,6,2,1,1438.3,false
+711173058,56,F,Unknown,Married,Unknown,Blue,45,4,3,0,5406.0,false
+715383108,52,M,Graduate,Single,$120K +,Blue,44,5,1,1,34516.0,false
+711697158,60,M,Graduate,Married,Less than $40K,Blue,36,6,2,2,1976.0,false
+709186983,49,M,Uneducated,Married,$80K - $120K,Blue,40,3,1,1,8714.0,false
+808964433,46,F,Doctorate,Divorced,Less than $40K,Blue,41,4,1,1,8693.0,false
+711948333,42,M,Uneducated,Married,$80K - $120K,Blue,36,6,1,2,9247.0,false
+710541858,45,M,High School,Married,Less than $40K,Blue,33,6,5,0,7717.0,false
+713865333,45,F,Uneducated,Married,Less than $40K,Blue,38,3,4,3,4908.0,true
+797707008,44,F,Doctorate,Married,Less than $40K,Blue,38,6,1,3,7222.0,true
+713490483,61,M,Uneducated,Single,$80K - $120K,Blue,48,6,2,2,21740.0,false
+720370533,55,M,Uneducated,Married,$60K - $80K,Blue,44,3,2,2,2323.0,true
+779743908,44,M,Unknown,Divorced,$60K - $80K,Blue,29,4,2,2,7788.0,false
+718675158,55,F,Unknown,Married,Less than $40K,Blue,36,4,1,3,1438.3,true
+710784333,57,M,Unknown,Married,$120K +,Blue,36,3,2,2,23700.0,false
+816596583,45,M,Doctorate,Married,$80K - $120K,Blue,40,6,3,1,11710.0,false
+717517758,57,F,High School,Married,$40K - $60K,Blue,45,3,2,2,2278.0,false
+712880283,31,M,Uneducated,Married,$40K - $60K,Blue,22,3,3,0,4048.0,false
+753226158,34,F,Graduate,Married,Less than $40K,Blue,24,6,2,2,3663.0,false
+720605808,53,F,Graduate,Single,Less than $40K,Blue,36,2,2,3,1438.3,true
+758317233,35,F,College,Single,Unknown,Blue,28,4,5,2,3518.0,false
+711028308,44,F,Graduate,Married,Less than $40K,Blue,36,4,1,0,1717.0,false
+814852533,50,M,Graduate,Married,$80K - $120K,Blue,45,3,2,2,16813.0,false
+711526533,33,M,Post-Graduate,Married,$80K - $120K,Blue,25,4,2,3,16434.0,false
+804403908,50,M,Graduate,Single,$60K - $80K,Blue,45,4,2,3,21872.0,false
+716999883,51,M,High School,Married,$80K - $120K,Blue,41,5,2,0,15897.0,false
+716452083,56,F,Unknown,Married,Less than $40K,Blue,46,5,3,2,4271.0,false
+787599258,55,F,Graduate,Single,Less than $40K,Blue,29,6,1,2,7361.0,false
+714495258,26,M,College,Single,Less than $40K,Blue,36,4,1,3,1438.3,false
+717713283,42,F,Graduate,Married,Less than $40K,Blue,33,6,3,3,8628.0,false
+789317883,54,M,College,Married,$80K - $120K,Blue,44,4,3,3,18750.0,false
+714500883,44,F,Graduate,Married,Unknown,Blue,36,4,2,3,21242.0,false
+789467508,65,F,Graduate,Married,$40K - $60K,Blue,56,5,3,0,2961.0,false
+710317758,38,F,High School,Married,Unknown,Blue,29,4,2,2,11327.0,false
+711231558,58,M,High School,Married,$60K - $80K,Blue,40,6,1,3,8308.0,false
+716829483,39,F,Post-Graduate,Married,$40K - $60K,Blue,28,4,2,2,3249.0,false
+779713608,52,M,High School,Married,$120K +,Blue,36,5,1,2,2981.0,false
+711628458,45,F,Graduate,Married,Less than $40K,Blue,31,4,1,0,8829.0,false
+718943508,42,M,Unknown,Single,$80K - $120K,Blue,33,3,3,2,3714.0,false
+770724558,42,M,College,Married,$60K - $80K,Blue,28,6,1,3,7340.0,true
+783561558,57,M,Post-Graduate,Married,$120K +,Blue,51,4,2,3,16952.0,false
+719309958,55,M,Doctorate,Single,$80K - $120K,Blue,35,4,1,3,20865.0,true
+788785083,44,F,College,Unknown,Less than $40K,Blue,25,6,3,2,3083.0,false
+780481308,37,F,Graduate,Married,Unknown,Blue,24,3,2,2,10584.0,false
+711757383,50,F,Unknown,Married,Less than $40K,Blue,42,4,1,2,2240.0,false
+787550808,51,M,Graduate,Married,$40K - $60K,Blue,40,5,1,2,12240.0,false
+779863533,37,M,Graduate,Married,$80K - $120K,Blue,21,6,2,0,5120.0,false
+714529233,36,F,Graduate,Married,Less than $40K,Blue,24,3,1,3,3124.0,false
+708177333,51,F,High School,Married,Less than $40K,Silver,36,5,3,0,11261.0,false
+812019933,65,M,Uneducated,Married,$40K - $60K,Blue,56,3,3,2,2468.0,false
+708557358,43,M,College,Married,$60K - $80K,Blue,28,4,2,3,22157.0,false
+713580633,46,M,Graduate,Married,$40K - $60K,Blue,32,6,2,3,11477.0,false
+711466533,43,F,Graduate,Married,Less than $40K,Blue,33,5,2,2,3933.0,false
+802276683,56,M,Graduate,Married,$80K - $120K,Blue,50,3,3,3,8022.0,false
+780913308,43,M,Unknown,Single,$60K - $80K,Blue,34,6,2,0,13771.0,false
+808897683,53,M,Graduate,Single,$80K - $120K,Blue,48,3,3,3,30271.0,true
+719428308,50,M,High School,Unknown,$60K - $80K,Blue,41,6,2,2,3244.0,false
+713010483,43,F,Graduate,Married,$40K - $60K,Blue,36,6,1,3,2936.0,false
+717006333,54,M,High School,Married,$80K - $120K,Blue,36,6,1,2,1438.3,false
+787621158,33,M,Unknown,Married,$60K - $80K,Blue,25,6,3,3,6242.0,false
+716924058,58,F,Uneducated,Married,$40K - $60K,Blue,49,3,1,3,6175.0,false
+720916683,41,M,Graduate,Single,$80K - $120K,Blue,26,4,3,2,11806.0,false
+720923658,48,M,Post-Graduate,Single,$60K - $80K,Blue,39,5,2,2,4734.0,false
+712710708,55,M,High School,Single,$40K - $60K,Blue,36,5,2,0,6244.0,false
+718939083,54,F,Graduate,Married,Less than $40K,Blue,45,3,1,3,1438.3,true
+779519058,51,F,Post-Graduate,Divorced,Unknown,Platinum,34,3,1,2,34516.0,false
+719085933,35,M,Graduate,Single,$80K - $120K,Blue,24,4,1,2,23561.0,false
+715124958,50,M,Uneducated,Single,$80K - $120K,Blue,36,5,2,3,24742.0,false
+712979133,55,M,High School,Married,$80K - $120K,Blue,41,2,2,2,27560.0,true
+712006308,45,F,College,Divorced,Less than $40K,Blue,35,6,1,3,5923.0,false
+710801133,34,M,Uneducated,Married,$60K - $80K,Blue,36,6,1,2,8581.0,false
+712490283,55,F,Graduate,Married,$40K - $60K,Blue,41,4,3,3,3156.0,false
+720071583,48,F,Unknown,Married,Less than $40K,Blue,36,5,1,3,7151.0,true
+717958833,46,M,Graduate,Married,$60K - $80K,Blue,35,5,1,2,1535.0,false
+812420358,61,F,Graduate,Married,Less than $40K,Blue,56,3,3,3,2122.0,true
+712370208,48,M,Uneducated,Unknown,$60K - $80K,Blue,35,3,2,2,17131.0,false
+715940358,51,F,Graduate,Married,Less than $40K,Blue,42,6,2,2,5822.0,false
+715041333,39,M,Doctorate,Married,$60K - $80K,Blue,29,3,1,3,3537.0,false
+712797258,43,M,Graduate,Married,$120K +,Blue,33,3,1,3,34516.0,false
+769170558,53,M,Graduate,Single,$60K - $80K,Blue,47,6,4,3,16320.0,false
+715884858,38,M,High School,Married,$80K - $120K,Blue,36,5,3,3,2407.0,false
+796343058,49,F,High School,Single,Less than $40K,Blue,43,4,1,2,3538.0,false
+783910008,37,F,Unknown,Married,Less than $40K,Blue,31,5,2,2,2684.0,false
+718888308,53,M,Graduate,Single,$80K - $120K,Blue,36,4,3,2,34516.0,false
+785114808,46,M,Post-Graduate,Single,$40K - $60K,Silver,40,4,2,2,15459.0,false
+709852908,44,F,Uneducated,Single,Less than $40K,Blue,36,5,3,3,4307.0,false
+823528833,50,F,Unknown,Single,Less than $40K,Blue,46,4,2,3,2081.0,false
+719679858,58,F,Uneducated,Married,$40K - $60K,Blue,47,3,2,2,2848.0,false
+827108583,55,M,High School,Single,$120K +,Blue,51,3,1,3,34516.0,false
+787833333,44,M,College,Unknown,$80K - $120K,Blue,35,6,1,2,6361.0,false
+719781183,57,M,High School,Married,$80K - $120K,Blue,38,4,1,3,15428.0,false
+710429358,57,M,High School,Married,$40K - $60K,Blue,48,5,1,3,2544.0,false
+798792408,48,M,High School,Married,$80K - $120K,Blue,42,1,1,3,9959.0,true
+710280558,51,M,Graduate,Single,$60K - $80K,Blue,39,3,3,2,8796.0,false
+809825358,53,F,Uneducated,Married,Less than $40K,Blue,48,6,1,3,3428.0,false
+714451833,45,F,Doctorate,Single,Less than $40K,Blue,36,6,2,2,1438.3,false
+713943783,41,M,Post-Graduate,Married,$60K - $80K,Blue,32,5,3,2,18001.0,false
+710706558,51,F,Graduate,Single,Less than $40K,Blue,42,3,1,3,2680.0,false
+713620308,46,F,High School,Married,Less than $40K,Blue,35,6,4,3,4675.0,false
+813453408,40,F,College,Married,Less than $40K,Blue,35,3,1,3,2448.0,false
+818248383,33,M,Doctorate,Married,$60K - $80K,Blue,28,3,3,3,4049.0,false
+780106908,53,M,High School,Single,$80K - $120K,Blue,38,6,2,2,8154.0,false
+708938508,63,M,High School,Married,$40K - $60K,Blue,36,5,3,2,4559.0,false
+709671708,61,M,Uneducated,Single,$80K - $120K,Blue,36,4,2,1,19354.0,false
+711204483,56,M,High School,Married,$60K - $80K,Blue,46,3,3,3,2340.0,true
+801728658,53,M,Graduate,Single,$60K - $80K,Blue,47,6,3,0,13848.0,false
+713945883,62,F,Graduate,Married,Less than $40K,Blue,52,4,2,2,2490.0,true
+779558733,50,F,Unknown,Married,Unknown,Silver,36,6,1,2,32156.0,false
+788370258,37,M,Graduate,Married,$60K - $80K,Blue,30,5,3,2,2578.0,false
+714927333,62,F,Graduate,Married,Unknown,Blue,52,6,3,2,9050.0,false
+710383158,49,M,Uneducated,Single,$80K - $120K,Silver,41,4,1,2,34516.0,false
+798007308,57,F,High School,Married,Unknown,Blue,51,6,1,0,8362.0,false
+711768858,55,M,High School,Married,$80K - $120K,Blue,36,3,2,3,6514.0,false
+714888633,50,M,Graduate,Married,$80K - $120K,Blue,42,3,3,4,4051.0,false
+712650333,48,M,College,Married,$60K - $80K,Blue,37,3,3,2,11959.0,false
+719945433,60,F,Uneducated,Divorced,$40K - $60K,Blue,48,3,2,2,2070.0,false
+720310458,46,M,Unknown,Single,$120K +,Blue,32,5,2,1,11840.0,false
+718344033,47,M,College,Married,$120K +,Blue,35,4,3,2,3636.0,false
+715442958,54,M,Uneducated,Married,$60K - $80K,Blue,36,3,3,3,11067.0,false
+780326883,53,M,Doctorate,Married,$60K - $80K,Blue,40,3,3,3,11262.0,false
+711157833,56,F,Graduate,Single,$40K - $60K,Blue,36,4,1,0,5108.0,false
+719704308,56,F,High School,Married,$40K - $60K,Blue,36,5,1,1,2072.0,false
+708772308,41,M,Uneducated,Married,$80K - $120K,Blue,24,4,3,3,4119.0,false
+817663908,60,F,Graduate,Married,$40K - $60K,Blue,42,5,3,3,5903.0,false
+780054258,40,M,Graduate,Unknown,$40K - $60K,Blue,25,6,2,3,7860.0,false
+709990983,49,F,Post-Graduate,Married,$40K - $60K,Blue,36,6,2,2,5918.0,false
+818045958,46,M,Graduate,Single,$40K - $60K,Blue,41,5,3,2,6741.0,false
+716380683,36,F,High School,Married,Less than $40K,Blue,36,6,1,2,3880.0,false
+787480158,57,F,Unknown,Married,Less than $40K,Blue,45,4,2,0,2494.0,false
+778461408,38,M,High School,Married,$80K - $120K,Blue,23,4,3,2,22149.0,false
+713861733,50,M,Graduate,Divorced,$80K - $120K,Blue,36,4,3,1,34516.0,false
+789291633,62,M,Graduate,Married,$60K - $80K,Blue,51,3,2,0,5450.0,false
+789513858,43,M,Unknown,Married,$40K - $60K,Blue,35,2,2,3,1438.3,true
+778357458,44,F,Unknown,Single,Less than $40K,Blue,24,4,3,3,2003.0,false
+718325883,39,M,Uneducated,Single,$40K - $60K,Blue,32,6,3,2,7723.0,false
+720344658,38,M,College,Married,$80K - $120K,Blue,23,4,1,1,18226.0,false
+809292483,44,F,College,Married,Less than $40K,Blue,39,4,2,2,8128.0,false
+779791008,43,M,High School,Married,$80K - $120K,Blue,32,6,2,3,5851.0,false
+779557533,54,M,Post-Graduate,Single,$80K - $120K,Blue,40,6,3,3,10260.0,false
+795904233,38,F,Unknown,Single,Unknown,Blue,32,5,1,0,26945.0,false
+710573808,55,M,Unknown,Single,$60K - $80K,Blue,36,6,3,3,2243.0,false
+717418158,42,M,Unknown,Unknown,$120K +,Blue,36,4,1,2,34516.0,false
+771963708,56,M,Unknown,Married,$60K - $80K,Blue,45,5,3,2,12248.0,true
+712433508,59,F,Unknown,Married,Unknown,Blue,50,3,2,3,1438.3,true
+779320983,46,M,Uneducated,Single,$80K - $120K,Blue,28,4,3,2,19843.0,false
+718093233,55,F,Post-Graduate,Married,Less than $40K,Blue,45,3,3,3,2163.0,false
+719459358,52,M,Doctorate,Married,$120K +,Blue,41,4,2,2,33864.0,false
+717728808,39,F,Graduate,Married,Less than $40K,Blue,26,3,1,2,4531.0,false
+788701608,42,F,Graduate,Single,Less than $40K,Blue,26,5,2,3,2950.0,false
+778506633,43,F,College,Married,Less than $40K,Blue,23,6,2,3,7706.0,true
+719989008,47,F,High School,Unknown,Unknown,Blue,36,5,1,0,25657.0,false
+791839233,42,F,Unknown,Divorced,Unknown,Blue,36,5,3,2,17536.0,false
+716918508,39,M,College,Single,$40K - $60K,Blue,24,4,3,3,3770.0,false
+717321783,50,M,Uneducated,Single,$60K - $80K,Blue,45,5,2,2,10344.0,false
+799000008,57,M,Post-Graduate,Divorced,$120K +,Blue,51,4,1,1,26437.0,false
+721517208,41,M,Unknown,Married,Less than $40K,Blue,30,4,6,1,2450.0,false
+719068683,52,F,High School,Married,$40K - $60K,Blue,36,5,1,2,3136.0,false
+709120008,43,M,High School,Single,$60K - $80K,Blue,36,4,3,2,6976.0,false
+709117533,42,M,High School,Single,$80K - $120K,Blue,36,4,3,1,21134.0,false
+816594183,58,F,Uneducated,Married,$40K - $60K,Blue,53,6,2,3,2019.0,false
+789485433,42,M,College,Married,$80K - $120K,Blue,34,3,2,3,34516.0,false
+712881483,55,M,Post-Graduate,Married,$80K - $120K,Blue,45,5,3,3,9959.0,false
+712689333,38,M,Unknown,Single,$80K - $120K,Blue,28,4,3,2,20241.0,false
+771492408,40,F,Graduate,Married,Less than $40K,Blue,28,3,1,2,2421.0,false
+711668283,48,M,Uneducated,Married,$80K - $120K,Blue,37,5,6,3,30948.0,false
+772684833,32,F,Unknown,Married,Less than $40K,Blue,22,3,3,2,2642.0,false
+712960308,33,F,High School,Single,Less than $40K,Blue,36,4,1,1,8070.0,false
+713530833,58,M,Graduate,Married,$40K - $60K,Blue,48,2,3,3,4085.0,true
+756065433,26,M,Unknown,Single,$40K - $60K,Blue,19,5,2,2,2187.0,false
+710997183,46,M,Unknown,Married,$60K - $80K,Gold,36,3,3,2,34516.0,false
+711146358,39,F,Graduate,Married,Unknown,Blue,29,4,3,2,3358.0,false
+716144058,36,F,College,Single,$40K - $60K,Blue,25,6,3,3,1888.0,false
+778699908,43,M,Uneducated,Married,$60K - $80K,Blue,24,2,3,3,14447.0,true
+713571258,45,M,Unknown,Single,$60K - $80K,Silver,26,6,3,2,32349.0,false
+711676908,51,F,College,Married,Unknown,Blue,36,3,2,3,12605.0,false
+719315508,62,F,Unknown,Married,$40K - $60K,Blue,36,4,2,2,2964.0,false
+778623858,58,M,Uneducated,Married,$80K - $120K,Blue,38,6,3,3,3785.0,false
+714665733,42,M,Graduate,Single,$60K - $80K,Blue,36,5,1,0,2727.0,false
+816089433,49,M,Doctorate,Married,$60K - $80K,Blue,44,3,1,1,3343.0,false
+716991933,53,F,Uneducated,Single,Less than $40K,Blue,35,6,3,1,9786.0,true
+714534108,45,F,High School,Married,$40K - $60K,Blue,36,4,1,3,6407.0,false
+787456608,29,M,High School,Married,$80K - $120K,Blue,15,6,2,2,4158.0,false
+717090183,60,M,Doctorate,Married,$120K +,Blue,50,6,1,2,21697.0,false
+772782708,50,M,Post-Graduate,Single,$80K - $120K,Blue,40,5,2,2,31383.0,false
+710722908,53,M,Doctorate,Single,$120K +,Blue,36,3,1,0,30883.0,false
+795155433,45,M,Unknown,Married,$80K - $120K,Blue,38,6,3,1,12918.0,false
+715271733,50,F,Uneducated,Single,Less than $40K,Blue,37,3,3,0,8520.0,false
+771706308,46,M,Doctorate,Single,$80K - $120K,Blue,34,4,3,2,14310.0,false
+713989233,61,M,Post-Graduate,Married,Unknown,Blue,53,6,2,3,14434.0,false
+780198258,46,M,College,Single,$120K +,Blue,36,5,2,1,7793.0,false
+802002858,62,F,High School,Married,Unknown,Blue,56,2,1,2,8990.0,true
+716290233,43,F,Graduate,Married,$40K - $60K,Blue,33,6,2,3,4343.0,false
+828298908,54,M,Graduate,Married,$120K +,Blue,50,4,2,0,2872.0,false
+788946783,50,M,Unknown,Single,$120K +,Blue,36,5,1,3,9697.0,false
+720697908,35,M,High School,Married,$40K - $60K,Blue,21,3,3,1,2967.0,false
+780598383,35,M,Doctorate,Single,$40K - $60K,Blue,23,4,3,2,2148.0,false
+715345833,36,F,High School,Single,Less than $40K,Blue,36,6,3,1,6116.0,false
+710831133,42,M,Unknown,Married,$80K - $120K,Blue,36,5,2,2,18085.0,false
+766706358,39,F,Unknown,Married,Less than $40K,Blue,32,6,3,0,2524.0,false
+816533733,50,M,Unknown,Married,$80K - $120K,Blue,45,5,2,2,33951.0,false
+712373208,43,M,Doctorate,Single,$60K - $80K,Blue,35,3,3,2,3312.0,true
+721433283,39,F,High School,Single,$40K - $60K,Blue,20,3,2,2,9956.0,false
+720680058,47,M,Post-Graduate,Married,Less than $40K,Blue,36,6,1,3,3888.0,false
+716909283,60,M,Post-Graduate,Single,$80K - $120K,Blue,48,3,1,3,30655.0,false
+754654383,30,M,High School,Married,Less than $40K,Blue,23,4,2,0,2997.0,false
+719226333,44,M,Unknown,Single,$60K - $80K,Blue,24,5,3,2,11042.0,false
+779759058,52,M,Graduate,Single,$120K +,Blue,41,6,3,2,3386.0,false
+718206783,45,F,Unknown,Single,Less than $40K,Gold,36,6,1,3,15987.0,false
+715783758,40,M,Graduate,Divorced,$120K +,Blue,30,5,3,3,25188.0,false
+771190083,36,F,Post-Graduate,Single,Less than $40K,Blue,23,6,2,1,2410.0,false
+713135883,65,F,High School,Married,Unknown,Blue,53,4,3,0,4315.0,false
+778799583,35,F,Unknown,Married,Less than $40K,Blue,24,6,1,1,2592.0,false
+808796208,54,F,Unknown,Divorced,$40K - $60K,Blue,49,5,3,2,5476.0,false
+708313608,53,M,Unknown,Married,$80K - $120K,Blue,43,5,3,0,2464.0,false
+779330208,62,F,College,Married,Less than $40K,Blue,44,3,2,3,2378.0,false
+794498733,40,M,Unknown,Single,$120K +,Blue,21,6,4,3,20056.0,false
+807964908,41,M,High School,Married,$60K - $80K,Blue,36,4,2,2,8013.0,false
+823845783,53,M,Unknown,Married,$120K +,Blue,49,6,2,3,3386.0,false
+711748983,30,M,High School,Married,$60K - $80K,Blue,17,3,3,2,7906.0,false
+718064283,46,M,Uneducated,Divorced,$60K - $80K,Blue,34,4,3,0,11501.0,false
+710492733,29,M,Post-Graduate,Single,$40K - $60K,Blue,19,4,1,2,13632.0,false
+779016408,37,F,Uneducated,Married,Less than $40K,Blue,27,6,1,3,2229.0,false
+717787533,51,F,High School,Married,Less than $40K,Blue,40,4,1,1,5158.0,false
+714851058,31,M,Graduate,Married,$40K - $60K,Blue,21,3,3,0,2158.0,false
+823535133,45,M,Uneducated,Unknown,$80K - $120K,Blue,41,6,2,2,23271.0,false
+708455883,57,M,Graduate,Single,$80K - $120K,Blue,36,2,3,2,10244.0,true
+780095808,43,M,Unknown,Divorced,$60K - $80K,Blue,30,3,2,1,2588.0,false
+709207458,44,M,Graduate,Married,$40K - $60K,Blue,27,4,2,3,10747.0,false
+763895958,53,M,High School,Married,$120K +,Blue,46,4,3,1,7474.0,true
+715942683,32,F,Graduate,Single,Less than $40K,Blue,36,3,1,3,3555.0,false
+721301733,53,M,Graduate,Married,$80K - $120K,Blue,38,6,3,2,22140.0,false
+711927108,54,M,High School,Married,$80K - $120K,Blue,36,2,3,4,9457.0,true
+718083483,42,M,Uneducated,Unknown,Less than $40K,Blue,35,4,5,0,6218.0,false
+717548358,38,F,College,Married,Less than $40K,Blue,25,3,3,1,2580.0,false
+816829608,44,M,Unknown,Married,$80K - $120K,Blue,39,6,2,2,1438.3,false
+713936583,54,M,Graduate,Married,$60K - $80K,Blue,43,6,3,1,6224.0,false
+709682658,37,F,High School,Single,$40K - $60K,Blue,36,5,3,1,3093.0,false
+793889508,48,F,Graduate,Married,$40K - $60K,Blue,42,4,3,3,4076.0,false
+714648933,55,F,Graduate,Married,Unknown,Blue,36,3,2,0,4861.0,false
+711556533,43,F,Graduate,Unknown,Unknown,Blue,36,6,3,3,9851.0,false
+717420333,37,M,High School,Single,$60K - $80K,Blue,26,4,3,2,7349.0,false
+768921933,34,M,High School,Married,$60K - $80K,Blue,28,3,3,3,2853.0,false
+714311583,46,F,Graduate,Single,Unknown,Blue,36,4,3,2,17023.0,false
+717707133,32,M,Unknown,Single,$40K - $60K,Blue,24,6,2,3,10060.0,false
+716043258,53,M,Unknown,Married,$40K - $60K,Blue,41,6,1,2,1595.0,false
+716343408,46,M,Graduate,Divorced,$80K - $120K,Blue,38,3,2,1,8475.0,false
+718909158,38,M,College,Married,Less than $40K,Blue,25,6,3,3,5559.0,false
+719471433,31,F,Graduate,Married,Less than $40K,Blue,22,3,3,2,2917.0,false
+712763808,38,M,Unknown,Single,$60K - $80K,Blue,36,3,3,3,6692.0,false
+711147483,46,F,Graduate,Single,Less than $40K,Blue,28,2,2,3,8551.0,true
+719788833,47,M,High School,Married,$60K - $80K,Blue,36,6,2,3,10569.0,false
+715168983,47,F,Graduate,Married,Less than $40K,Blue,36,5,2,2,7051.0,false
+714306258,56,M,College,Married,$60K - $80K,Blue,46,3,2,1,10117.0,false
+713828208,47,M,Uneducated,Unknown,$60K - $80K,Blue,36,6,2,1,8311.0,false
+710574558,47,M,Graduate,Single,$80K - $120K,Blue,41,5,3,2,26442.0,false
+710947683,64,F,Graduate,Married,Less than $40K,Blue,51,6,3,1,4920.0,false
+711113958,37,F,Unknown,Married,Less than $40K,Blue,25,6,2,1,1438.3,false
+718923858,42,M,College,Married,$60K - $80K,Silver,29,5,2,2,26750.0,false
+752666508,41,M,College,Married,$80K - $120K,Silver,34,4,3,3,34516.0,false
+712672083,65,F,High School,Married,Less than $40K,Blue,36,3,3,2,1438.3,false
+719863758,49,F,Post-Graduate,Married,$40K - $60K,Blue,41,6,2,2,1869.0,false
+720990183,54,M,High School,Married,$60K - $80K,Blue,36,5,2,3,14539.0,true
+720718908,46,M,Uneducated,Single,$120K +,Blue,36,5,1,3,26977.0,false
+721250358,50,M,Unknown,Married,$40K - $60K,Blue,36,3,1,3,5426.0,false
+779773533,50,F,Unknown,Married,Less than $40K,Blue,34,6,1,3,7623.0,false
+708249708,48,F,Doctorate,Married,Less than $40K,Blue,39,3,3,3,4844.0,false
+713967783,62,F,Unknown,Married,Unknown,Blue,52,6,1,1,2683.0,false
+779506158,39,F,College,Married,Less than $40K,Blue,22,3,1,2,3214.0,false
+759823158,46,M,Unknown,Married,$60K - $80K,Blue,39,4,3,3,5374.0,false
+716608608,41,M,Uneducated,Married,$80K - $120K,Blue,33,5,3,3,8004.0,true
+789528183,39,F,Graduate,Married,Unknown,Blue,31,4,2,3,1438.3,false
+708895158,46,M,Unknown,Married,$80K - $120K,Blue,34,3,3,3,2925.0,false
+824805858,39,F,Uneducated,Single,Less than $40K,Blue,35,5,3,3,9235.0,false
+720840108,44,M,Uneducated,Married,Less than $40K,Blue,24,5,3,0,8837.0,false
+787595658,57,F,Unknown,Single,Less than $40K,Blue,29,6,1,1,8801.0,false
+720244983,40,M,Unknown,Single,$40K - $60K,Blue,28,4,1,1,3563.0,false
+713220258,65,F,High School,Married,Unknown,Blue,36,4,3,2,8138.0,false
+813469458,26,F,Graduate,Single,$40K - $60K,Blue,20,6,3,3,1438.3,false
+788939358,47,M,High School,Unknown,$60K - $80K,Blue,33,4,2,2,2458.0,false
+718870158,47,M,High School,Married,$60K - $80K,Blue,34,5,2,3,4592.0,false
+788673708,57,F,High School,Married,$40K - $60K,Blue,45,2,1,3,1438.3,true
+711809283,31,M,Unknown,Married,Less than $40K,Blue,36,3,3,3,1868.0,false
+816513108,54,M,Graduate,Married,$60K - $80K,Blue,49,3,1,2,5269.0,false
+718594608,43,F,Post-Graduate,Married,Unknown,Blue,36,3,3,3,20156.0,false
+823606983,39,M,College,Married,$60K - $80K,Blue,35,4,3,2,7410.0,false
+717028158,53,M,Graduate,Married,$120K +,Blue,44,3,2,3,12163.0,false
+788485908,44,M,Unknown,Married,$60K - $80K,Blue,37,3,2,3,6224.0,false
+714472608,59,M,College,Married,Less than $40K,Blue,49,3,3,3,4250.0,false
+710793783,53,F,Graduate,Married,Unknown,Blue,40,6,3,1,12059.0,false
+794340033,34,F,Uneducated,Married,$40K - $60K,Blue,28,5,1,3,2799.0,false
+716462658,47,M,Doctorate,Single,$80K - $120K,Blue,36,3,1,1,18037.0,false
+718050033,54,M,College,Married,$120K +,Blue,43,3,2,3,5657.0,false
+714023808,42,F,Graduate,Married,Unknown,Blue,33,6,1,1,13770.0,false
+716341833,53,F,College,Married,Less than $40K,Blue,44,6,2,3,4646.0,false
+719648358,50,M,Graduate,Single,$80K - $120K,Blue,35,3,3,1,2514.0,false
+816600933,56,M,College,Married,$80K - $120K,Blue,51,3,2,3,14501.0,true
+714208533,43,M,High School,Married,$60K - $80K,Blue,36,1,3,3,8663.0,true
+713095533,44,F,High School,Divorced,Less than $40K,Blue,36,5,3,3,2333.0,false
+809967783,34,F,Graduate,Divorced,$40K - $60K,Blue,26,5,5,3,3038.0,false
+715848408,61,M,Graduate,Unknown,$80K - $120K,Blue,52,6,6,1,8851.0,false
+714414483,54,F,Unknown,Married,Less than $40K,Blue,44,6,3,1,2945.0,false
+708655983,49,F,High School,Divorced,Unknown,Blue,40,3,3,2,5267.0,false
+720426708,56,M,High School,Single,$60K - $80K,Blue,45,2,1,3,8512.0,true
+713743158,47,M,Graduate,Married,$60K - $80K,Blue,36,4,3,2,19063.0,false
+721279083,53,M,Graduate,Single,$80K - $120K,Blue,33,5,3,3,5376.0,false
+779149683,30,F,Graduate,Divorced,Unknown,Blue,13,5,1,2,7772.0,false
+714970458,39,F,High School,Married,$40K - $60K,Blue,29,6,1,1,9173.0,false
+719070108,44,M,Graduate,Married,$80K - $120K,Silver,35,4,1,3,34516.0,false
+715490733,54,F,Uneducated,Single,Unknown,Blue,36,5,1,2,11975.0,false
+714989583,46,M,Graduate,Married,$60K - $80K,Blue,36,3,2,3,15405.0,false
+820355433,43,M,Unknown,Single,$40K - $60K,Blue,38,6,1,1,2615.0,false
+715901508,35,M,High School,Married,$80K - $120K,Blue,25,6,1,2,23991.0,false
+710370483,39,F,College,Married,Less than $40K,Blue,31,4,3,3,1888.0,false
+778573233,61,F,Graduate,Married,Less than $40K,Blue,54,3,2,2,3102.0,false
+708833133,40,F,Graduate,Divorced,Less than $40K,Blue,29,5,2,2,3170.0,false
+719885883,53,M,College,Single,$120K +,Blue,36,6,2,0,34516.0,false
+712523283,55,M,Unknown,Married,$120K +,Blue,41,4,3,2,14938.0,false
+711309033,41,M,Unknown,Single,$60K - $80K,Blue,24,6,2,2,17298.0,false
+708134283,35,M,Uneducated,Married,Less than $40K,Blue,36,4,3,3,3131.0,false
+720147633,61,M,Unknown,Single,$40K - $60K,Blue,47,3,2,2,11915.0,false
+708983658,51,M,Uneducated,Single,$120K +,Blue,39,3,3,1,16868.0,true
+766285608,42,M,High School,Single,$40K - $60K,Blue,35,4,3,3,3266.0,false
+779715108,46,M,Unknown,Divorced,$80K - $120K,Blue,30,3,3,3,2770.0,false
+798035358,46,F,High School,Single,Less than $40K,Blue,40,3,2,2,3556.0,false
+719391783,46,M,Uneducated,Married,$40K - $60K,Blue,35,3,2,2,9149.0,false
+809342208,26,M,Graduate,Single,Unknown,Blue,19,4,1,2,1438.3,false
+780713058,46,M,High School,Married,$60K - $80K,Blue,35,4,3,3,14701.0,false
+779338683,62,M,Graduate,Married,$60K - $80K,Blue,44,5,2,2,14825.0,false
+783387783,55,M,Uneducated,Divorced,$60K - $80K,Blue,49,4,5,3,10127.0,false
+787800108,55,M,College,Married,$80K - $120K,Blue,45,5,1,2,2929.0,false
+721397808,32,M,High School,Married,$40K - $60K,Blue,24,5,2,0,3735.0,false
+778698408,37,F,Uneducated,Married,Less than $40K,Blue,18,5,1,2,2930.0,false
+709545333,33,F,High School,Single,Unknown,Blue,29,6,2,3,12716.0,false
+716032233,42,M,College,Married,$80K - $120K,Blue,32,5,2,2,22120.0,false
+717835908,33,M,Post-Graduate,Married,$80K - $120K,Blue,22,3,3,3,1438.3,false
+719466558,60,F,High School,Single,Unknown,Blue,36,3,2,2,4546.0,false
+778663458,65,M,High School,Married,Less than $40K,Blue,47,3,2,1,1759.0,true
+716024808,57,M,Graduate,Married,$80K - $120K,Blue,36,3,3,3,4829.0,true
+713008308,59,F,Unknown,Married,Less than $40K,Blue,47,5,3,2,7692.0,false
+794831733,45,F,Graduate,Married,Less than $40K,Blue,39,4,3,2,2156.0,false
+713854608,62,M,Uneducated,Married,$60K - $80K,Blue,36,6,3,3,9521.0,false
+715993608,51,M,College,Single,$120K +,Blue,41,6,3,2,26714.0,false
+789368658,57,M,Graduate,Married,$80K - $120K,Blue,47,6,2,3,2092.0,false
+802817358,38,F,High School,Married,Unknown,Blue,32,4,2,1,11594.0,false
+708098133,32,F,Graduate,Married,Less than $40K,Blue,19,6,1,0,2834.0,false
+801499908,43,F,Graduate,Married,Less than $40K,Blue,37,4,3,2,4724.0,false
+824770683,51,F,Unknown,Divorced,Less than $40K,Blue,47,6,4,3,3049.0,false
+718310733,50,M,Unknown,Divorced,$80K - $120K,Blue,36,4,3,1,20614.0,false
+708162558,64,F,Uneducated,Married,Unknown,Blue,54,6,1,2,3250.0,false
+721129383,53,F,Doctorate,Married,Less than $40K,Blue,36,3,1,2,3128.0,false
+721249158,42,M,Uneducated,Single,$60K - $80K,Blue,30,2,2,3,6414.0,true
+721049658,53,M,Graduate,Single,$80K - $120K,Blue,34,6,3,0,2506.0,false
+806392908,52,F,High School,Single,Unknown,Blue,47,6,2,3,7469.0,false
+714886533,60,F,High School,Married,Less than $40K,Blue,36,4,3,2,3460.0,false
+772375533,30,M,Graduate,Married,$80K - $120K,Blue,19,5,3,2,9959.0,false
+826775058,43,F,Uneducated,Married,Less than $40K,Blue,39,4,1,2,4175.0,false
+711878733,60,M,Uneducated,Married,$60K - $80K,Blue,48,3,1,3,10264.0,false
+714550383,46,M,High School,Single,$40K - $60K,Blue,36,4,3,3,4129.0,false
+712636308,65,F,High School,Married,$40K - $60K,Blue,45,6,2,2,2658.0,false
+772139433,44,F,College,Single,$40K - $60K,Blue,33,4,2,3,4589.0,false
+709058808,56,F,College,Married,Less than $40K,Blue,36,6,1,2,2781.0,false
+813240408,45,F,High School,Married,Unknown,Blue,39,4,3,2,24880.0,false
+767753958,37,M,Graduate,Unknown,$40K - $60K,Blue,31,6,1,2,8504.0,false
+710111733,48,M,High School,Married,$80K - $120K,Blue,39,5,1,3,8091.0,false
+761544333,37,F,College,Married,$40K - $60K,Blue,30,4,4,3,3417.0,false
+788814783,39,M,Uneducated,Single,$60K - $80K,Blue,22,4,3,3,9204.0,false
+715034358,41,M,Graduate,Married,$120K +,Blue,32,5,2,3,14302.0,false
+709624533,55,F,High School,Married,Less than $40K,Blue,45,5,2,0,3187.0,false
+709942383,34,M,Graduate,Married,$80K - $120K,Blue,36,5,3,2,6313.0,false
+803957508,52,M,Unknown,Single,$80K - $120K,Blue,47,6,1,3,15904.0,false
+713378133,54,F,Post-Graduate,Single,Less than $40K,Silver,39,6,2,3,11696.0,false
+709217358,40,M,Post-Graduate,Married,$80K - $120K,Blue,36,5,3,2,20371.0,false
+720998358,52,M,High School,Married,$120K +,Silver,41,3,3,1,34516.0,false
+721051908,45,M,Graduate,Single,$60K - $80K,Blue,33,3,1,3,7552.0,false
+715232058,61,M,Post-Graduate,Married,$40K - $60K,Blue,53,5,1,2,5561.0,false
+806250783,57,F,High School,Married,Less than $40K,Blue,52,6,3,2,1441.0,false
+817245183,51,M,Unknown,Unknown,$120K +,Blue,33,6,2,2,19715.0,false
+713670333,60,M,Unknown,Single,Less than $40K,Blue,52,5,3,2,2486.0,false
+826477083,48,F,College,Married,Less than $40K,Blue,44,5,1,3,4570.0,false
+788728608,34,M,High School,Married,$40K - $60K,Blue,13,3,3,2,3870.0,false
+717190533,49,M,High School,Married,$60K - $80K,Blue,36,6,3,2,12938.0,false
+716580033,53,M,High School,Married,$120K +,Blue,36,3,1,3,21178.0,false
+711644508,34,M,Uneducated,Single,$80K - $120K,Blue,36,3,2,0,12182.0,false
+714334383,54,M,Graduate,Married,$60K - $80K,Blue,42,6,2,0,3583.0,false
+720611058,40,M,Graduate,Single,$120K +,Blue,27,4,2,3,17018.0,false
+712420833,49,F,College,Single,Unknown,Blue,41,6,3,2,16031.0,false
+713845083,41,F,High School,Single,Less than $40K,Blue,36,6,2,3,4203.0,true
+713756508,46,M,Graduate,Divorced,Less than $40K,Blue,36,5,1,3,4213.0,false
+735565158,46,M,Graduate,Married,$60K - $80K,Blue,33,6,2,2,21548.0,false
+714131058,30,M,Graduate,Unknown,$60K - $80K,Blue,36,3,5,3,18513.0,false
+717180633,59,M,Post-Graduate,Married,$40K - $60K,Blue,36,4,2,2,2483.0,false
+717295683,50,M,Doctorate,Single,$80K - $120K,Blue,38,5,2,2,3460.0,false
+713128833,49,M,Unknown,Unknown,$60K - $80K,Blue,36,5,3,2,6511.0,false
+813499458,45,M,High School,Unknown,$60K - $80K,Blue,40,3,3,1,1438.3,true
+710070183,53,F,High School,Single,Less than $40K,Blue,36,3,2,2,2615.0,false
+789605658,42,F,Doctorate,Married,$40K - $60K,Blue,35,4,3,2,2985.0,false
+710045058,46,M,High School,Married,$40K - $60K,Silver,28,5,1,3,18797.0,false
+710164683,33,M,Graduate,Married,$60K - $80K,Blue,22,3,1,3,2859.0,false
+710802258,46,F,Graduate,Married,Less than $40K,Blue,38,4,3,0,2888.0,false
+721036233,61,M,High School,Married,$60K - $80K,Blue,36,4,3,3,9172.0,false
+710036508,42,M,Uneducated,Married,$40K - $60K,Blue,34,5,3,2,14281.0,false
+717776808,47,F,Graduate,Single,Less than $40K,Blue,39,3,2,3,7353.0,false
+714906033,47,F,Graduate,Single,Less than $40K,Blue,36,6,2,2,5145.0,false
+714273708,53,F,Graduate,Married,$40K - $60K,Blue,36,3,2,3,4753.0,false
+721117533,46,F,Graduate,Single,Less than $40K,Blue,26,3,3,3,2171.0,false
+715374558,26,M,College,Divorced,Less than $40K,Blue,36,5,2,3,4150.0,false
+824807658,45,M,Graduate,Married,$60K - $80K,Blue,41,6,3,3,9106.0,false
+714940608,36,M,High School,Divorced,$40K - $60K,Blue,36,3,3,2,2686.0,false
+824782008,42,M,High School,Unknown,$60K - $80K,Blue,38,5,1,2,10239.0,false
+717561108,52,M,Graduate,Married,$80K - $120K,Blue,36,4,3,2,34516.0,false
+717127083,37,M,Graduate,Married,$120K +,Blue,25,3,3,0,15017.0,false
+772460508,53,M,Uneducated,Married,$40K - $60K,Blue,43,3,1,2,4426.0,false
+720484908,65,F,Post-Graduate,Married,$40K - $60K,Blue,52,5,3,3,2155.0,false
+771237933,47,M,Uneducated,Unknown,$80K - $120K,Blue,34,4,1,3,20620.0,false
+794664183,38,M,Uneducated,Married,$60K - $80K,Blue,19,3,1,3,3238.0,false
