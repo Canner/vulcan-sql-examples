@@ -13,6 +13,11 @@ API_URL = os.getenv('API_URL', 'http://localhost:3000/api')
 
 st.title('COVID-19 Data Dashboard')
 st.markdown('The API service is delivered using [VulcanSQL](https://vulcansql.com/).')
+st.markdown('We demonstrate how effortlessly VulcanSQL can create and share data APIs. This allows data users to craft their own data visualization applications using different tools, like Streamlit, which is used in this example.')
+st.markdown('references:')
+st.markdown('- [Detailed introduction on how this project is built](https://vulcansql.com/use-cases/customer-facing-analytics/streamlit)')
+st.markdown('- [Source code](https://github.com/Canner/vulcan-sql-examples/tree/main/covid19-global-data-api)')
+st.markdown('---')
 
 @st.cache_data
 def get_country_name_and_code_pairs():
