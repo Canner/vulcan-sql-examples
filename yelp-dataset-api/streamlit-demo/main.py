@@ -92,7 +92,7 @@ def get_business_tips(api_url):
     return requests.get(api_url).json()
 
 api_url = f'https://{answer.splitlines()[-1].split("https://")[-1]}'
-st.markdown(f'After some post-processing to the result returned by the Cohere model, now we are going to request this API URL: {api_url}')
+st.markdown(f'After some post-processing to the result returned from the Cohere model, now we are going to request this API URL: {api_url}')
 
 with st.spinner('Waiting for the API result to return...'):
     api_results = get_business_tips(api_url)
