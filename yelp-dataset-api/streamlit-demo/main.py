@@ -33,7 +33,9 @@ BUSINESS_IDS = [
     '_uN0OudeJ3Zl_tf6nxg5ww',
     'OaGf0Dp56ARhQwIDT90w_g',
 ]
-business_id = st.selectbox('Select a business id', BUSINESS_IDS)
+business_id = st.selectbox('Select a name', BUSINESS_IDS)
+
+st.markdown('---')
 
 COHERE_API_KEY = os.environ['COHERE_API_KEY']
 
@@ -59,6 +61,26 @@ Answer: Let's answer the question step by step and give me the url.
 def run_llm(_llm_chain, question):
     return _llm_chain.run(question)
 
+st.markdown('This is the prompt we are going to ask the Cohere model:')
+st.markdown(f'''
+```
+BASE URL: https://yelp-dataset-api.fly.dev/api/
+
+API Documentation
+The API endpoint  /businesses shows a list of user tips given to a given business_id
+
+|URL Query Parameter|Format|Required|Default Description|
+|---|---|---|---|
+|business_id|string|Yes|unique id|
+|limit|integer|No|Offset-based Pagination: The maximum number of rows to return. default: 20|
+|offset|integer|No|Offset-based Pagination: The offset from the row. default: 0|
+
+Question: {question}
+
+Answer: Let's answer the question step by step and give me the url.
+```
+''')
+
 with st.spinner('Waiting for the Cohere model to generate the answer...'):
     prompt = PromptTemplate(template=template, input_variables=["question"])
     llm = Cohere(cohere_api_key=COHERE_API_KEY, temperature=0)
@@ -70,7 +92,7 @@ def get_business_tips(api_url):
     return requests.get(api_url).json()
 
 api_url = f'https://{answer.splitlines()[-1].split("https://")[-1]}'
-st.markdown(f'Now we are going to request this API URL: {api_url}')
+st.markdown(f'After some post-processing to the result returned by the Cohere model, now we are going to request this API URL: {api_url}')
 
 with st.spinner('Waiting for the API result to return...'):
     api_results = get_business_tips(api_url)
@@ -87,5 +109,6 @@ tips_results = [
     for api_result in api_results
 ]
 
+st.markdown('---')
 st.markdown(f'**User Tips to the Business {business_id}**')
 st.dataframe(tips_results)
