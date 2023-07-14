@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "streamlit-demo"
+version = "0.1.0"
+description = ""
+authors = ["Jimmy Yeh <jimmy.yeh@vulcansql.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.0.232"
+streamlit = "^1.24.1"
+python-dotenv = "^1.0.0"
+cohere = "^4.13.0"
+requests = "^2.31.0"
+pandas = "^2.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

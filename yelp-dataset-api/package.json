@@ -1,0 +1,12 @@
+{
+  "name": "yelp-dataset-api",
+  "dependencies": {
+    "@vulcan-sql/catalog-server": "^0.6.0",
+    "@vulcan-sql/core": "0.6.0",
+    "@vulcan-sql/extension-driver-duckdb": "0.6.0",
+    "@vulcan-sql/serve": "0.6.0"
+  },
+  "devDependencies": {
+    "@vulcan-sql/build": "0.6.0"
+  }
+}
