@@ -20,6 +20,7 @@ st.markdown('We demonstrate how effortlessly VulcanSQL can create and share secu
 st.markdown('In this project for example, data from the column `tip_user_id` is being masked.')
 st.markdown('**No Fear of Data Breach!**')
 
+st.markdown('Notice:')
 st.markdown('- The Cohere model used in the demo is in Trial mode, which is limited to 5 API calls/minute.')
 st.markdown('- If you run into `JSONDecodeError` issue, please rerun the Streamlit app')
 
