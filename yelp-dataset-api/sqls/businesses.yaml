@@ -1,0 +1,5 @@
+urlPath: /businesses
+pagination:
+  mode: offset
+profiles:
+  - duckdb
