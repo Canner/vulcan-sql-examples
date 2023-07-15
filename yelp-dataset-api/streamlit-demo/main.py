@@ -33,7 +33,7 @@ st.markdown('- If you run into `JSONDecodeError` issue, please rerun the Streaml
 st.markdown('---')
 
 st.subheader('The Application Flow Diagram')
-st.markdown("<div style='display: flex; justify-content: center;'><img src='app/static/intro.png' style='width: 800px;' /></div>", unsafe_allow_html=True)
+st.image('static/intro.png')
 
 st.markdown('---')
 
