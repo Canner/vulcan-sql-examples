@@ -1,2 +1,2 @@
 # Modify this Procfile to fit your needs
-web: poetry run streamlit run main.py --server.port 8080
+web: STREAMLIT_SERVER_ENABLE_STATIC_SERVING=true poetry run streamlit run main.py --server.port 8080
