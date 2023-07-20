@@ -1,0 +1,13 @@
+- name: duckdb
+  type: duckdb
+  allow: "*"
+- name: pg # profile name
+  type: pg
+  allow: "*"
+  connection:
+    host: ep-curly-bonus-640884.us-east-1.aws.neon.tech
+    port: 5432
+    user: cyyeh
+    password: TXdNBe58rQnL
+    database: neondb
+    ssl: true
