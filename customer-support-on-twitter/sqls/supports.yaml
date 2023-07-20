@@ -1,0 +1,6 @@
+urlPath: /supports
+request:
+  - fieldName: query
+    fieldIn: header
+profiles:
+  - pg

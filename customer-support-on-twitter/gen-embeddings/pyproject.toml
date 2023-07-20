@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "embeddings"
+version = "0.1.0"
+description = ""
+authors = ["Jimmy Yeh <jimmy.yeh@cannerdata.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+cohere = "^4.15.0"
+langchain = "^0.0.235"
+python-dotenv = "^1.0.0"
+pandas = "^2.0.3"
+psycopg2 = "^2.9.6"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

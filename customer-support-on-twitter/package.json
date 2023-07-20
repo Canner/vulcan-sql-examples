@@ -1,0 +1,12 @@
+{
+  "name": "customer-support-on-twitter",
+  "dependencies": {
+    "@vulcan-sql/core": "0.6.0",
+    "@vulcan-sql/extension-driver-duckdb": "0.6.0",
+    "@vulcan-sql/extension-driver-pg": "^0.6.0",
+    "@vulcan-sql/serve": "file:./packages/serve"
+  },
+  "devDependencies": {
+    "@vulcan-sql/build": "0.6.0"
+  }
+}

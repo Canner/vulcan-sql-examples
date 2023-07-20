@@ -1,0 +1,59 @@
+{
+  "name": "@vulcan-sql/serve",
+  "description": "VulcanSQL package for serving projects",
+  "version": "0.6.0",
+  "type": "commonjs",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "vulcan",
+    "vulcan-sql",
+    "data",
+    "sql",
+    "database",
+    "data-warehouse",
+    "data-lake",
+    "api-builder"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Canner/vulcan-sql.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@vulcan-sql/core": "~0.6.0-0"
+  },
+  "dependencies": {
+    "redoc": "2.0.0-rc.76",
+    "inversify": "^6.0.1",
+    "reflect-metadata": "^0.1.13",
+    "class-transformer": "^0.5.1",
+    "moment": "^2.29.4",
+    "ms": "3.0.0-canary.1",
+    "lodash": "^4.17.21",
+    "toad-scheduler": "^2.2.0",
+    "uuid": "^9.0.0",
+    "js-yaml": "^4.1.0",
+    "nunjucks": "^3.2.3",
+    "glob": "^8.0.1",
+    "tslog": "^3.3.3",
+    "joi": "^17.6.0",
+    "dayjs": "^1.11.2",
+    "koa": "^2.13.4",
+    "class-validator": "^0.13.2",
+    "duckdb": "0.7.1",
+    "koa-router": "^10.1.1",
+    "koa-bodyparser": "^4.3.0",
+    "md5": "^2.3.0",
+    "bcryptjs": "^2.4.3",
+    "bytes": "^3.1.2",
+    "@koa/cors": "^3.3.0",
+    "koa-compose": "^4.1.0",
+    "koa-sslify": "^5.0.0",
+    "koa2-ratelimit": "^1.1.1",
+    "tslib": "^2.3.0"
+  },
+  "main": "./src/index.js",
+  "typings": "./src/index.d.ts"
+}
