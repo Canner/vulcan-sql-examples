@@ -19,10 +19,11 @@ st.markdown('''
     We use Neon as the database that powers the vector search; and Cohere as the embeddings service that turns text into vectors.
 ''')
 st.markdown('references:')
+st.markdown('- [Source code](https://github.com/Canner/vulcan-sql-examples/tree/main/customer-support-on-twitter)')
 st.markdown('- [Dataset: Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter/versions/10?resource=download)')
-st.markdown('- [Source code](https://github.com/Canner/vulcan-sql-examples/tree/main/customer-suppoort-on-twitter)')
 st.markdown('- [Neon](https://neon.tech/)')
 st.markdown('- [Cohere](https://cohere.com/)')
+st.markdown('---')
 st.markdown('**The Application Flow Diagram**')
 st.image('static/intro.jpeg')
 st.markdown('---')
