@@ -11,11 +11,11 @@ import streamlit as st
 
 load_dotenv()
 
-st.set_page_config(page_title='Semantic Search: VulcanSQL + Neon + Cohere', layout='wide')
-st.title('Semantic Search: VulcanSQL + Neon + Cohere')
+st.set_page_config(page_title='Similarity Search: VulcanSQL + Neon + Cohere', layout='wide')
+st.title('Similarity Search: VulcanSQL + Neon + Cohere')
 st.markdown('The API service is delivered using [VulcanSQL](https://vulcansql.com/).')
 st.markdown('''
-    We demonstrate how effortlessly VulcanSQL can create and share data APIs that enables semantic search applications.
+    We demonstrate how effortlessly VulcanSQL can create and share data APIs that enables similarity search applications.
     We use Neon as the database that powers the vector search; and Cohere as the embeddings service that turns text into vectors.
 ''')
 st.markdown('references:')
@@ -31,8 +31,15 @@ st.markdown('---')
 VULCANSQL_API_URL = os.getenv('VULCANSQL_API_URL', 'http://localhost:3000/api')
 COHERE_API_KEY = os.environ.get('COHERE_API_KEY')
 
+st.markdown('**What is the dataset?**')
+st.markdown('''
+    The Customer Support on Twitter dataset offers a large corpus of modern English (mostly) 
+    conversations between consumers and customer support agents on Twitter.
+''')
+st.image('static/dataset.png')
+
 # Turn a user query into an embedding
-query = st.text_input('Write down your query here')
+query = st.text_input('Give any query here, so we can find the top 3 most similar text in the customer support on twitter dataset for you')
 
 if query:
     with st.spinner('Embedding your query...'):
