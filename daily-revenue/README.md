@@ -1,5 +1,7 @@
 # VulcanSQL Benchmark test
 
+related blog post: https://vulcansql.com/blog/powering-rapid-data-apps-with-vulcansql
+
 ## Setup
 
 - [Install VulcanSQL from NPM](https://vulcansql.com/docs/get-started/installation#install-from-npm)
