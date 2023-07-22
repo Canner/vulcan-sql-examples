@@ -1,5 +1,7 @@
 # COVID 19 Global Data API
 
+related article: https://vulcansql.com/use-cases/customer-facing-analytics/streamlit
+
 ## Project Introduction
 
 This sample project is based on [VulcanSQL](https://github.com/Canner/vulcan-sql/). VulcanSQL is a Data API Framework that helps data folks build scalable data APIs using only SQL templates without any backend skills required.
