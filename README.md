@@ -21,3 +21,7 @@ This repo contains a curated list of VulcanSQL examples.
 - [VulcanSQL Benchmark test](./daily-revenue/)
 - [[WIP]: Kaggle: Credit Card customers](./kaggle-credit-card-customers/)
 - [[WIP]: VulcanSQL Extensions](./vulcan-sql-extensions/)
+
+## Public Datasets
+
+Here is [a list of public datasets](https://canner.notion.site/Public-Dataset-ca99a4ddf04b4993bf09da0e1640df32?pvs=4) you may find interesting and we hope they can spir your inspiration!
