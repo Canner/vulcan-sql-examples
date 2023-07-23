@@ -2,23 +2,24 @@
 
 This repo contains a curated list of VulcanSQL examples.
 
-- [COVID 19 Global Data API](./covid19-global-data-api/)
+- [COVID 19 Global Data API](./covid19-global-data-api/): First demo
     - connector: DuckDB
     - dataset: CSV
     - visualization: Streamlit
     - deployment: Fly.io
-- [Yelp Dataset API](./yelp-dataset-api/)
+- [Yelp Dataset API](./yelp-dataset-api/): This demonstrates how VulcanSQL with built-in data privacy mechanisms helps protect your data
     - connector: DuckDB
     - dataset: CSV to Parquet
     - visualization: Streamlit
     - deployment: Fly.io
-- [Customer Support on Twitter](./customer-support-on-twitter/)
+- [Customer Support on Twitter](./customer-support-on-twitter/): VulcanSQL can empower applications with text embeddings thanks to the pgVector extension of PostgreSQL
     - connector: PostgreSQL(using Neon, serverless PostgreSQL)
     - dataset: CSV + text embeddings generated from Cohere
     - visualization: Streamlit
     - deployment: Fly.io
-- [Make a Admin Panel in Appsmith](./admin-panel-using-appsmith/)
-- [VulcanSQL Benchmark test](./daily-revenue/)
+- [Make a Admin Panel in Appsmith](./admin-panel-using-appsmith/): An example to demonstate that how VulcanSQL can integrate with internal tools such as Appsmith
+- [Read Data from Internet](./read-data-from-internet/): A minimum example to demonstrate that now we can directly query data from the Internet with the help of the `httpfs` extension in DuckDB
+- [VulcanSQL Benchmark test](./daily-revenue/): VulcanSQL performance evaluation using k6
 - [[WIP]: Kaggle: Credit Card customers](./kaggle-credit-card-customers/)
 - [[WIP]: VulcanSQL Extensions](./vulcan-sql-extensions/)
 
