@@ -1,0 +1,1 @@
+SELECT * FROM {% dbt "model.jaffle_shop.customers" %}
