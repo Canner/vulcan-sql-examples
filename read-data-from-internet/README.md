@@ -1,7 +1,5 @@
 # Reading Data from the Internet
 
-**Notes: at the moment, you need to install VulcanSQL using npm to have this feature**
-
 Since now VulcanSQL has support of the [`httpfs` extention in DuckDB](https://duckdb.org/docs/extensions/httpfs.html), we can directly query data from the internet.
 
 ## Setup
