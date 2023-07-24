@@ -36,4 +36,4 @@ extensions:
   dbt: '@vulcan-sql/extension-dbt'
 dbt:
   modelFiles:
-    - ./target/manifest.json
+    - ./jaffle_shop/target/manifest.json
