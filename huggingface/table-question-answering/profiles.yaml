@@ -1,0 +1,6 @@
+- name: duck
+  type: duckdb
+  connection:
+    log-queries: true
+    log-parameters: true
+  allow: "*"

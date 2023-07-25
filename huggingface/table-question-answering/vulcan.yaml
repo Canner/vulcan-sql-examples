@@ -1,0 +1,44 @@
+name: "Table Question Answering"
+description: A samples project to use Table Question Answering task of Hugging Face extension
+version: 0.7.1
+template:
+  provider: LocalFile
+  # Path to .sql files
+  folderPath: sqls
+  codeLoader: InMemory
+artifact:
+  provider: LocalFile
+  serializer: JSON
+  # Path to build result
+  filePath: result.json
+schema-parser:
+  reader: LocalFile
+  # Path to .yaml files
+  folderPath: sqls
+document-generator:
+  specs:
+    - oas3
+types:
+  - RESTFUL
+
+profiles:
+  - profiles.yaml
+
+extensions:
+  duckdb: "@vulcan-sql/extension-driver-duckdb"
+  hf: "@vulcan-sql/extension-huggingface"
+
+auth:
+  enabled: false
+enforce-https:
+  enabled: false
+response-format:
+  enabled: true
+  options:
+    default: json
+    formats:
+      - json
+      - csv
+
+hf:
+  accessToken: "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"
