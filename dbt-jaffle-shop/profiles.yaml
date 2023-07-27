@@ -1,3 +1,5 @@
 - name: duckdb
   type: duckdb
+  connection:
+    persistent-path: ./test-data/mydata.db
   allow: "*"
