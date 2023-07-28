@@ -1,5 +1,5 @@
 - name: duckdb
   type: duckdb
   connection:
-    persistent-path: ./test-data/mydata.db
+    persistent-path: ./jaffle_shop/jaffle_shop.db
   allow: "*"
