@@ -19,6 +19,7 @@ This repo contains a curated list of VulcanSQL examples.
   - deployment: Fly.io
 - [Make a Admin Panel in Appsmith](./admin-panel-using-appsmith/): An example to demonstrate that how VulcanSQL can integrate with internal tools such as Appsmith
 - [Read Data from Internet](./read-data-from-internet/): A minimum example to demonstrate that now we can directly query data from the Internet with the help of the `httpfs` extension in DuckDB
+- [dbt Minimum Example Using jaffle-shop](./dbt-jaffle-shop/): A minimum dbt example
 - [HuggingFace](./huggingface/): The examples to VulcanSQL leverage the power of HuggingFace Extension
   - [Table Question Answering](./huggingface/table-question-answering/): The project demonstrates how VulcanSQL can leverage the power of Hugging Face Table Question Answering `huggingface_table_question_answering` to query your data simply.
 - [VulcanSQL Benchmark test](./daily-revenue/): VulcanSQL performance evaluation using k6
