@@ -1,0 +1,13 @@
+{
+  "name": "dbt-minimum-example",
+  "dependencies": {
+    "@vulcan-sql/catalog-server": "^0.7.0",
+    "@vulcan-sql/core": "0.7.0",
+    "@vulcan-sql/extension-dbt": "^0.7.0",
+    "@vulcan-sql/extension-driver-duckdb": "0.7.0",
+    "@vulcan-sql/serve": "0.7.0"
+  },
+  "devDependencies": {
+    "@vulcan-sql/build": "0.7.0"
+  }
+}
