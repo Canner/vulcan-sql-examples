@@ -32,4 +32,4 @@ response-format:
       - json
       - csv
 extensions:
-  duckdb: '@vulcan-sql/extension-driver-duckdb'
+  ch: '@vulcan-sql/extension-driver-clickhouse'
