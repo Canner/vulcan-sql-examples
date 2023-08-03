@@ -1,3 +1,4 @@
 .DS_Store
 result.json
 node_modules
+.tokens.json
