@@ -17,3 +17,7 @@ For authorization
 - run `yarn` in the root of the project directory
 - run `vulcan start --watch` to start the VulcanSQL API Server(http://localhost:3000)
 - run `vulcan catalog` to explore data from the API(http://localhost:4200)
+
+## References
+
+- [VulcanSQL Authentication & Authorization](https://vulcansql.com/docs/data-privacy/overview)
