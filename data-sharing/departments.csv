@@ -1,0 +1,6 @@
+id,department,last_name,company_role,annual_salary
+JDK32424,engineering,James,engineer,"$100,000"
+EKJ34124,sales,Harden,sales,"$120,000"
+MKO56124,sales,Michael,manager,"$110,000"
+ONP01124,engineering,Cindy,manager,"$115,000"
+NZP59124,ceo,Rosa,boss,"$150,000"

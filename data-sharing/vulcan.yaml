@@ -1,0 +1,61 @@
+name: 'data-sharing'
+description: A starter Vulcan project
+version: 0.2.0
+template:
+  provider: LocalFile
+  # Path to .sql files
+  folderPath: sqls
+  codeLoader: InMemory
+artifact:
+  provider: LocalFile
+  serializer: JSON
+  # Path to build result
+  filePath: result.json
+schema-parser:
+  reader: LocalFile
+  # Path to .yaml files
+  folderPath: sqls
+document-generator:
+  specs:
+    - oas3
+types:
+  - RESTFUL
+auth:
+  enabled: true
+  options:
+    basic:
+      # Read users and passwords from a text file.
+      htpasswd-file:
+        path: passwd.txt # Path to the password file.
+        users: # (Optional) Add attributes for users
+          - name: james
+            attr:
+              role: employee
+              department: engineering
+          - name: harden
+            attr:
+              role: employee
+              department: sales
+          - name: michael
+            attr:
+              role: employee
+              department: sales
+          - name: cindy
+            attr:
+              role: employee
+              department: engineering
+          - name: rosa
+            attr:
+              role: employer
+              department: ceo
+enforce-https:
+  enabled: false
+response-format:
+  enabled: true
+  options:
+    default: json
+    formats:
+      - json
+      - csv
+extensions:
+  duckdb: '@vulcan-sql/extension-driver-duckdb'
