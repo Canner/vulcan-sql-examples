@@ -18,6 +18,8 @@ For authorization
 - run `vulcan start --watch` to start the VulcanSQL API Server(http://localhost:3000)
 - run `vulcan catalog` to explore data from the API(http://localhost:4200)
 
+**Notes: `passwd.txt` is uploaded for demo purpose. You should add this file to .gitignore.**
+
 ## References
 
 - [VulcanSQL Authentication & Authorization](https://vulcansql.com/docs/data-privacy/overview)
