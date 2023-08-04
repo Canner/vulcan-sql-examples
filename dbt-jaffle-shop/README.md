@@ -1,5 +1,9 @@
 # dbt jaffle_shop
 
+## References
+
+- [VulcanSQL dbt extension docs](https://vulcansql.com/docs/extensions/dbt)
+
 ## Setup
 
 - dbt
