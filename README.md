@@ -29,4 +29,4 @@ This repo contains a curated list of VulcanSQL examples.
 
 ## Public Datasets
 
-Here is [a list of public datasets](https://canner.notion.site/Public-Dataset-ca99a4ddf04b4993bf09da0e1640df32?pvs=4) you may find interesting and we hope they can spir your inspiration!
+Here is [a list of public datasets](https://canner.notion.site/Public-Dataset-ca99a4ddf04b4993bf09da0e1640df32?pvs=4) you may find interesting and we hope they can spur your inspiration!
