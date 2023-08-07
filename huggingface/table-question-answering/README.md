@@ -20,7 +20,14 @@ $ yarn install -g @vulcan-sql/cli
 $ yarn install
 ```
 
-3. Start VulcanSQL in the terminal
+3. Create your HuggingFace  [User Access Token](https://huggingface.co/docs/hub/security-tokens) and add to `vulcan.yaml`:
+
+```yaml
+hf:
+  accessToken: "<your access token>"
+```
+
+4. Start VulcanSQL in the terminal
 
 ```bash
 $ vulcan start --watch
