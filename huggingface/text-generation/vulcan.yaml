@@ -1,6 +1,6 @@
-name: "Table Question Answering"
-description: A samples project to use Table Question Answering task of Hugging Face extension
-version: 0.7.1
+name: "Text Generation for using llama2 model"
+description: A samples project to use Text Generation for using llama2 model task of Hugging Face extension
+version: 0.8.0
 template:
   provider: LocalFile
   # Path to .sql files
