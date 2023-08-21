@@ -1,0 +1,12 @@
+{
+  "name": "restapi-caller",
+  "dependencies": {
+    "@vulcan-sql/core": "0.9.1",
+    "@vulcan-sql/extension-api-caller": "^0.9.1",
+    "@vulcan-sql/extension-driver-duckdb": "0.9.1",
+    "@vulcan-sql/serve": "0.9.1"
+  },
+  "devDependencies": {
+    "@vulcan-sql/build": "0.9.1"
+  }
+}
