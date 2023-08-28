@@ -1,0 +1,5 @@
+urlPath: /us/universities
+request:
+  - fieldName: question
+    fieldIn: query
+profile: duck

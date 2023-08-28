@@ -1,0 +1,17 @@
+{
+  "name": "table-question-answering",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vulcan-sql/build": "0.7.1",
+    "@vulcan-sql/core": "0.7.1",
+    "@vulcan-sql/extension-driver-duckdb": "0.7.1",
+    "@vulcan-sql/extension-huggingface": "^0.7.1",
+    "@vulcan-sql/catalog-server": "0.7.1",
+    "@vulcan-sql/serve": "0.7.1"
+  },
+  "resolutions": {
+    "wrap-ansi": "7.0.0"
+  }
+}

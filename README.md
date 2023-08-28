@@ -2,27 +2,22 @@
 
 This repo contains a curated list of VulcanSQL examples.
 
-- [COVID 19 Global Data API](./covid19-global-data-api/): First demo
-    - connector: DuckDB
-    - dataset: CSV
-    - visualization: Streamlit
-    - deployment: Fly.io
-- [Yelp Dataset API](./yelp-dataset-api/): This demonstrates how VulcanSQL with built-in data privacy mechanisms helps protect your data
-    - connector: DuckDB
-    - dataset: CSV to Parquet
-    - visualization: Streamlit
-    - deployment: Fly.io
-- [Customer Support on Twitter](./customer-support-on-twitter/): VulcanSQL can empower applications with text embeddings thanks to the pgVector extension of PostgreSQL
-    - connector: PostgreSQL(using Neon, serverless PostgreSQL)
-    - dataset: CSV + text embeddings generated from Cohere
-    - visualization: Streamlit
-    - deployment: Fly.io
-- [Make a Admin Panel in Appsmith](./admin-panel-using-appsmith/): An example to demonstate that how VulcanSQL can integrate with internal tools such as Appsmith
-- [Read Data from Internet](./read-data-from-internet/): A minimum example to demonstrate that now we can directly query data from the Internet with the help of the `httpfs` extension in DuckDB
-- [VulcanSQL Benchmark test](./daily-revenue/): VulcanSQL performance evaluation using k6
-- [[WIP]: Kaggle: Credit Card customers](./kaggle-credit-card-customers/)
-- [[WIP]: VulcanSQL Extensions](./vulcan-sql-extensions/)
+| Name | Introduction | Installed Extensions | Other Tech Stack | Deployment | Demo Link |
+| ---  | ----         | -------------------- | ---------------- | ---------- | --------- | 
+| [COVID 19 Global Data API](./covid19-global-data-api/)                          | https://vulcansql.com/use-cases/customer-facing-analytics/streamlit                                                 | DuckDB               | Streamlit                          | Fly.io     | https://covid19-dashboard.fly.dev/                                                          |
+| [Yelp Dataset API](./yelp-dataset-api/)                                         | This example demonstrates how effortlessly VulcanSQL can create and share secure data APIs.                         | DuckDB               | Cohere, LangChain, Streamlit       | Fly.io     | https://yelp-dataset-demo.fly.dev/                                                          |
+| [Customer Support on Twitter](./customer-support-on-twitter/)                   | This example demonstrates how VulcanSQL can have similarity search!                                                 | PostgreSQL, DuckDB   | Neon, Cohere, LangChain, Streamlit | Fly.io     | https://customer-support-on-twitter-demo.fly.dev/                                           |
+| [Make a Admin Panel in Appsmith](./admin-panel-using-appsmith/)                 | https://vulcansql.com/use-cases/internal-tools/appsmith                                                             | DuckDB               |                                    | Appsmith   | https://app.appsmith.com/app/food-table-powered-by-vulcansql/page1-64a6848a4d60e87c5655e3f6 |
+| [Read Data from Internet](./read-data-from-internet/)                           | This example demonstrates how VulcanSQL can directly query data from the Internet and deliver data APIs right away. | DuckDB               |                                    |            |                                                                                             |     |
+| [dbt Minimum Example Using jaffle-shop](./dbt-jaffle-shop/)                     | This example demonstrates how VulcanSQL can integrate with dbt by directly querying data from dbt SQL models.       | DuckDB, dbt          |                                    |            |                                                                                             |
+| [Data Sharing](./data-sharing/)                                                 | This example demonstrates VulcanSQL's authentication and authorization mechanisms.                                  | DuckDB               |                                    |            |                                                                                             |
+| [HuggingFace Table Question Answering](./huggingface/table-question-answering/) | This example demonstrates how LLMs can perform table quries, so users can ask questions in natural language.        | DuckDB, HuggingFace  | HuggingFace                        |            |                                                                                             |
+| [HuggingFace Text Generation - Using Llama2](./huggingface/text-generation/)    | This example demonstrates how LLMs can perform table quries, so users can ask questions in natural language.        | DuckDB, HuggingFace  | HuggingFace                        |            |                                                                                             |
+| [VulcanSQL Benchmark test](./daily-revenue/)                                    | https://vulcansql.com/blog/powering-rapid-data-apps-with-vulcansql                                                  | DuckDB, BigQuery     |                                    |            |                                                                                             |
+| [REST API Caller](./restapi-caller) | https://vulcansql.com/docs/extensions/api | DuckDB | | | |
+| [[WIP]: Kaggle: Credit Card customers](./kaggle-credit-card-customers/)         |                                                                                                                     |                      |                                    |            |                                                                                             |
+| [[WIP]: VulcanSQL Extensions](./vulcan-sql-extensions/)                         |                                                                                                                     |                      |                                    |            |                                                                                             |
 
 ## Public Datasets
 
-Here is [a list of public datasets](https://canner.notion.site/Public-Dataset-ca99a4ddf04b4993bf09da0e1640df32?pvs=4) you may find interesting and we hope they can spir your inspiration!
+Here is [a list of public datasets](https://canner.notion.site/Public-Dataset-ca99a4ddf04b4993bf09da0e1640df32?pvs=4) you may find interesting and we hope they can spur your inspiration!

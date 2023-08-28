@@ -1,0 +1,6 @@
+urlPath: /repositories
+description: Found the repository has the most stars
+request:
+  - fieldName: question
+    fieldIn: query
+profile: duck

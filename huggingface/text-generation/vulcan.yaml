@@ -1,0 +1,44 @@
+name: "Text Generation for using llama2 model"
+description: A samples project to use Text Generation for using llama2 model task of Hugging Face extension
+version: 0.8.0
+template:
+  provider: LocalFile
+  # Path to .sql files
+  folderPath: sqls
+  codeLoader: InMemory
+artifact:
+  provider: LocalFile
+  serializer: JSON
+  # Path to build result
+  filePath: result.json
+schema-parser:
+  reader: LocalFile
+  # Path to .yaml files
+  folderPath: sqls
+document-generator:
+  specs:
+    - oas3
+types:
+  - RESTFUL
+
+profiles:
+  - profiles.yaml
+
+extensions:
+  duckdb: "@vulcan-sql/extension-driver-duckdb"
+  hf: "@vulcan-sql/extension-huggingface"
+
+auth:
+  enabled: false
+enforce-https:
+  enabled: false
+response-format:
+  enabled: true
+  options:
+    default: json
+    formats:
+      - json
+      - csv
+
+hf:
+  accessToken: "<your access token>"
