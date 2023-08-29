@@ -1,0 +1,10 @@
+- name: ch # profile name
+  type: clickhouse
+  connection:
+    host: http://localhost:8123
+    request_timeout: 60000
+    compression:
+      request: true
+    max_open_connections: 10
+    database: default
+  allow: '*'

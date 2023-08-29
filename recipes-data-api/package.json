@@ -1,0 +1,12 @@
+{
+  "name": "recipes-data-api",
+  "dependencies": {
+    "@vulcan-sql/catalog-server": "^0.9.1",
+    "@vulcan-sql/core": "0.9.1",
+    "@vulcan-sql/extension-driver-clickhouse": "^0.9.1",
+    "@vulcan-sql/serve": "0.9.1"
+  },
+  "devDependencies": {
+    "@vulcan-sql/build": "0.9.1"
+  }
+}

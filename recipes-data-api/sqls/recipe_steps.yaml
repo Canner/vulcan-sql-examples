@@ -1,0 +1,9 @@
+urlPath: /recipe_steps
+description: Get a recipe steps
+request:
+  - fieldName: recipe
+    fieldIn: query
+    validators:
+      - required
+profiles:
+  - ch

@@ -1,0 +1,11 @@
+urlPath: /most_complex_recipes
+description: Get recipes ordered by steps given an ingredient
+request:
+  - fieldName: ingredient
+    fieldIn: query
+    validators:
+      - required
+pagination:
+  mode: offset
+profiles:
+  - ch
