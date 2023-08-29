@@ -1,0 +1,6 @@
+urlPath: /top_ingredients
+description: Get a list of ingredients ordered by the number of recipe involved
+pagination:
+  mode: offset
+profiles:
+  - ch

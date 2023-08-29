@@ -1,0 +1,1 @@
+SELECT count() as recipe_count FROM recipes

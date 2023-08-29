@@ -1,12 +1,10 @@
 - name: ch # profile name
   type: clickhouse
   connection:
-    host: https://bm235nyy0r.us-east-2.aws.clickhouse.cloud:8443
+    host: http://localhost:8123
     request_timeout: 60000
     compression:
       request: true
     max_open_connections: 10
-    username: default
-    password: TPfNuuX_99D82
     database: default
   allow: '*'

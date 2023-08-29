@@ -1,0 +1,4 @@
+urlPath: /recipes_number
+description: Get total number of recipes
+profiles:
+  - ch
