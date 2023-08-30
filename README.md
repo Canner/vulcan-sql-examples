@@ -16,7 +16,6 @@ This repo contains a curated list of VulcanSQL examples.
 | [VulcanSQL Benchmark test](./daily-revenue/)                                    | https://vulcansql.com/blog/powering-rapid-data-apps-with-vulcansql                                                  | DuckDB, BigQuery     |                                    |            |                                                                                             |
 | [REST API Caller](./restapi-caller) | https://vulcansql.com/docs/extensions/api | DuckDB | | | |
 | [Recipes Data API](./recipes-data-api) | This example demonstrates how VulcanSQL can integrate with ClickHouse and share data APIs in no time! | ClickHouse ||||
-| [[WIP]: Kaggle: Credit Card customers](./kaggle-credit-card-customers/)         |                                                                                                                     |                      |                                    |            |                                                                                             |
 | [[WIP]: VulcanSQL Extensions](./vulcan-sql-extensions/)                         |                                                                                                                     |                      |                                    |            |                                                                                             |
 
 ## Public Datasets
