@@ -1,0 +1,1 @@
+SELECT * FROM 'https://huggingface.co/datasets/tasksource/mmlu/resolve/refs%2Fconvert%2Fparquet/abstract_algebra/dev/0000.parquet';
