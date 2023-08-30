@@ -1,1 +1,0 @@
-exports.MockAuthenticator = require('./mock-auth').MockAuthenticator;
