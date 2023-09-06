@@ -3,7 +3,7 @@
 This project demonstrates how VulcanSQL can leverage the power of Neon, a serverless PostgreSQL service, to create data applications available to do similarity search!
 
 - Dataset: https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter/versions/10?resource=download
-- API documentation: https://customer-support-on-twitter.fly.dev/
+- API documentation: https://customer-support-on-twitter.fly.dev/doc
 - DEMO:https://customer-support-on-twitter-demo.fly.dev/
 
 ## Prerequisites
